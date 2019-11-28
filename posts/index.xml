@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CloudChangeLog</title>
-    <link>https://cloudchangelog.github.io/staging/posts/</link>
+    <link>http://staging.cloudchangelog.com/posts/</link>
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cloudchangelog.github.io/staging/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://staging.cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>28 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/28/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/28/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/28/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/28/</guid>
       <description> ICYMI: Serverless pre:Invent 2019
 03:58 AM &amp;#8226; AWS Amazon CloudWatch Amazon Simple Notification Service (SNS)
  Tracking the state of Lambda functions
@@ -26,10 +26,10 @@
     
     <item>
       <title>27 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/27/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/27/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/27/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/27/</guid>
       <description>Decoupled Serverless Scheduler To Run HPC Applications At Scale on EC2
 10:43 PM &amp;#8226; AWS Amazon DynamoDB Architecture
  The Next Evolution in AWS Single Sign-On
@@ -42,10 +42,10 @@
     
     <item>
       <title>26 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/26/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/26/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/26/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/26/</guid>
       <description>AWS Load Balancer Update – Lots of New Features for You!
 11:31 PM &amp;#8226; AWS Amazon EC2 Elastic Load Balancing
  Transforming DevOps at Broadridge on AWS
@@ -58,10 +58,10 @@
     
     <item>
       <title>25 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/25/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/25/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/25/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/25/</guid>
       <description>Running Cost-effective queue workers with Amazon SQS and Amazon EC2 Spot Instances
 11:55 PM &amp;#8226; AWS Amazon EC2 Amazon Simple Queue Service (SQS)
  22 New Languages And Variants, 6 New Regions For Amazon Translate
@@ -74,20 +74,20 @@
     
     <item>
       <title>23 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/23/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/23/</link>
       <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/23/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/23/</guid>
       <description> New for Identity Federation – Use Employee Attributes for Access Control in AWS
 01:25 AM &amp;#8226; AWS AWS Identity and Access Management (IAM) Launch  </description>
     </item>
     
     <item>
       <title>22 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/22/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/22/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/22/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/22/</guid>
       <description>Migrating from IBM MQ to Amazon MQ using a phased approach
 11:15 PM &amp;#8226; AWS Amazon MQ Messaging
  Evolve your analytics with Amazon QuickSight’s new APIs and theming capabilities
@@ -100,10 +100,10 @@
     
     <item>
       <title>21 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/21/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/21/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/21/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/21/</guid>
       <description>New – Convert Your Single-Region Amazon DynamoDB Tables to Global Tables
 11:44 PM &amp;#8226; AWS Amazon DynamoDB Launch
  Announcing CloudTrail Insights: Identify and Respond to Unusual API Activity
@@ -116,10 +116,10 @@
     
     <item>
       <title>20 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/20/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/20/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/20/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/20/</guid>
       <description>Oracle Cloud Joins the IO500 Fastest File Systems in the World
 10:18 PM &amp;#8226; Oracle
  New for AWS Lambda – SQS FIFO as an event source
@@ -132,10 +132,10 @@
     
     <item>
       <title>19 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/19/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/19/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/19/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/19/</guid>
       <description>New – Using Step Functions to Orchestrate Amazon EMR workloads
 10:20 PM &amp;#8226; AWS Amazon EMR Analytics
  AWS Systems Manager Explorer – A Multi-Account, Multi-Region Operations Dashboard
@@ -148,10 +148,10 @@
     
     <item>
       <title>18 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/18/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/18/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/18/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/18/</guid>
       <description>CloudFormation Update – CLI + Third-Party Resource Support + Registry
 10:38 PM &amp;#8226; AWS AWS CloudFormation Launch
  Java 11 runtime now available in AWS Lambda
@@ -164,20 +164,20 @@
     
     <item>
       <title>16 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/16/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/16/</link>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/16/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/16/</guid>
       <description> Now available: Batch Recommendations in Amazon Personalize
 02:15 AM &amp;#8226; AWS Amazon Personalize Artificial Intelligence  </description>
     </item>
     
     <item>
       <title>15 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/15/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/15/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/15/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/15/</guid>
       <description>Oracle Cloud Infrastructure and Rescale: Simplifying HPC in the Cloud
 08:25 PM &amp;#8226; Oracle Partners Solutions
  Leave manual cluster resizing behind with Cloud Dataproc’s autoscaling
@@ -189,10 +189,10 @@
     
     <item>
       <title>14 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/14/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/14/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/14/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/14/</guid>
       <description>Deploying a highly available WordPress site on Amazon Lightsail, Part 4: Increasing performance and scalability with a Lightsail load balancer
 10:45 PM &amp;#8226; AWS Amazon Lightsail Compute
  New Automation Features In AWS Systems Manager
@@ -204,10 +204,10 @@
     
     <item>
       <title>13 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/13/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/13/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/13/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/13/</guid>
       <description>Two Tools to Bring Your Existing Infrastructure Under Terraform
 10:43 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
  Accelerate SQL Server Always On Deployments with AWS Launch Wizard
@@ -219,10 +219,10 @@
     
     <item>
       <title>12 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/12/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/12/</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/12/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/12/</guid>
       <description> An update on Chronicle: Continuing to give good the advantage
 05:30 PM &amp;#8226; GCP Identity &amp;amp; Security
  4 steps to a successful cloud migration
@@ -234,10 +234,10 @@
     
     <item>
       <title>11 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/11/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/11/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/11/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/11/</guid>
       <description>ICYMI: Serverless Q3 2019
 06:29 PM &amp;#8226; AWS Amazon Aurora Amazon DynamoDB
  Exploring the machine learning models behind Cloud IAM Recommender
@@ -251,10 +251,10 @@
     
     <item>
       <title>08 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/08/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/08/</link>
       <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/08/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/08/</guid>
       <description>Secure your data on Amazon EMR using native EBS and per bucket S3 encryption options
 10:52 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Amazon EMR
  Introducing New Certifications: Architect Professional and Operations Associate
@@ -267,10 +267,10 @@
     
     <item>
       <title>07 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/07/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/07/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/07/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/07/</guid>
       <description>Deploying a Highly available WordPress site on Amazon Lightsail, Part 3: Increasing security and performance using Amazon CloudFront
 10:43 PM &amp;#8226; AWS Amazon Lightsail Compute
  New Console Features to Manage Your Cloud Account
@@ -283,10 +283,10 @@
     
     <item>
       <title>06 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/06/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/06/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/06/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/06/</guid>
       <description>Jump-Start Development by Using Oracle Autonomous Linux and Always Free Services
 10:35 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
  Meet the newest AWS Heroes, including the first Data Heroes!
@@ -298,10 +298,10 @@
     
     <item>
       <title>05 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/05/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/05/</link>
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/05/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/05/</guid>
       <description>Now Available: New C5d Instance Sizes and Bare Metal Instances
 11:07 PM &amp;#8226; AWS Amazon EC2 Amazon EC2 Bare Metal
  Amazon QuickSight announces the all-new QuickSight Mobile app
@@ -313,10 +313,10 @@
     
     <item>
       <title>04 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/04/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/04/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/04/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/04/</guid>
       <description>Command and control now easier in BigQuery with scripting and stored procedures
 05:00 PM &amp;#8226; GCP Data Analytics
  Bringing Google AutoML to 3.5 million data scientists on Kaggle
@@ -329,10 +329,10 @@
     
     <item>
       <title>01 November, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/11/01/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/11/01/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/11/01/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/11/01/</guid>
       <description>Joining across data sources on Amazon QuickSight
 09:46 PM &amp;#8226; AWS Amazon QuickSight Analytics
  Show off your BigQuery ML and Kaggle skills: Competition open now
@@ -344,10 +344,10 @@
     
     <item>
       <title>31 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/31/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/31/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/31/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/31/</guid>
       <description>Deploying a highly available WordPress site on Amazon Lightsail, Part 2: Using Amazon S3 with WordPress to securely deliver media files
 08:57 PM &amp;#8226; AWS
  In the Works – AWS Region in Spain
@@ -359,10 +359,10 @@
     
     <item>
       <title>30 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/30/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/30/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/30/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/30/</guid>
       <description>Migrating Azure VM to AWS using AWS SMS Connector for Azure
 09:12 PM &amp;#8226; AWS AWS on Windows Compute
  TensorFlow Enterprise makes accessing data on Google Cloud faster and easier
@@ -374,10 +374,10 @@
     
     <item>
       <title>29 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/29/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/29/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/29/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/29/</guid>
       <description>Optimizing deep learning on P3 and P3dn with EFA
 11:50 PM &amp;#8226; AWS Amazon EC2 Amazon EC2 P3dn
  What’s happening in BigQuery: New features bring flexibility and scale to your data warehouse
@@ -389,10 +389,10 @@
     
     <item>
       <title>28 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/28/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/28/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/28/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/28/</guid>
       <description>How to orchestrate Cloud Dataprep jobs using Cloud Composer
 04:00 PM &amp;#8226; GCP Data Analytics
  How to integrate Policy Intelligence recommendations into an IaC pipeline
@@ -405,10 +405,10 @@
     
     <item>
       <title>25 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/25/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/25/</link>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/25/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/25/</guid>
       <description>Centralizing Windows Logs with Amazon Elasticsearch Services
 05:35 PM &amp;#8226; AWS Amazon Elasticsearch Service* AWS on Windows
  Orchestrate big data workflows with Apache Airflow, Genie, and Amazon EMR: Part 1
@@ -420,10 +420,10 @@
     
     <item>
       <title>24 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/24/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/24/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/24/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/24/</guid>
       <description>Running Java applications on Amazon EC2 A1 instances with Amazon Corretto
 10:22 PM &amp;#8226; AWS Amazon Corretto Amazon EC2
  Optimizing for cost, availability and throughput by selecting your AWS Batch allocation strategy
@@ -435,10 +435,10 @@
     
     <item>
       <title>23 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/23/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/23/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/23/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/23/</guid>
       <description>Dedicated Access to GlusterFS-Based Shared Storage on Oracle Cloud Infrastructure
 06:02 PM &amp;#8226; Oracle Performance Solutions
  Use GKE usage metering to combat over-provisioning
@@ -451,10 +451,10 @@
     
     <item>
       <title>22 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/22/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/22/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/22/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/22/</guid>
       <description>Improve Your App Testing With Amplify Console’s Pull Request Previews and Cypress Testing
 09:58 PM &amp;#8226; AWS AWS Amplify Developer Tools
  Deploying a highly available WordPress site on Amazon Lightsail, Part 1: Implementing a highly available Lightsail database with WordPress
@@ -466,10 +466,10 @@
     
     <item>
       <title>21 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/21/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/21/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/21/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/21/</guid>
       <description> How Standard Industries uses Google Cloud to power homes of the future
 04:00 PM &amp;#8226; GCP Inside Google Cloud Customers
  Leave no database behind with Cloud SQL for SQL Server
@@ -481,10 +481,10 @@
     
     <item>
       <title>18 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/18/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/18/</link>
       <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/18/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/18/</guid>
       <description>New geospatial data comes to BigQuery public datasets with CARTO collaboration
 06:00 PM &amp;#8226; GCP BigQuery Public Datasets
  Make your voice heard in the Global Knowledge 2020 IT Skills and Salary Survey
@@ -496,10 +496,10 @@
     
     <item>
       <title>17 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/17/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/17/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/17/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/17/</guid>
       <description>Best practices to scale Apache Spark jobs and partition data with AWS Glue
 09:22 PM &amp;#8226; AWS Analytics AWS Big Data
  New – Amazon CloudWatch Anomaly Detection
@@ -512,10 +512,10 @@
     
     <item>
       <title>16 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/16/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/16/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/16/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/16/</guid>
       <description>Now Available – Amazon Relational Database Service (RDS) on VMware
 10:59 PM &amp;#8226; AWS Amazon RDS Launch
  Stay in control of your security with new product enhancements in Google Cloud
@@ -528,10 +528,10 @@
     
     <item>
       <title>15 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/15/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/15/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/15/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/15/</guid>
       <description> Microsoft Azure AI hackathon’s winning projects
 03:00 PM &amp;#8226; Azure Events Artificial Intelligence
  Migration Complete – Amazon’s Consumer Business Just Turned off its Final Oracle Database
@@ -541,10 +541,10 @@
     
     <item>
       <title>14 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/14/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/14/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/14/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/14/</guid>
       <description> Azure Monitor adds Worker Service SDK, new ASP.NET core metrics
 11:00 AM &amp;#8226; Azure Developer Monitoring
  Azure SQL Database: Continuous innovation and limitless scale at an unbeatable price
@@ -554,10 +554,10 @@
     
     <item>
       <title>11 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/11/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/11/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/11/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/11/</guid>
       <description> Orchestrate Amazon Redshift-Based ETL workflows with AWS Step Functions and AWS Glue
 08:38 PM &amp;#8226; AWS Amazon Redshift Analytics
  Integrating Security with DevOps on Oracle Cloud (Part 2 of 5) 
@@ -569,10 +569,10 @@
     
     <item>
       <title>10 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/10/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/10/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/10/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/10/</guid>
       <description>Now Available: Bare Metal Arm-Based EC2 Instances
 11:50 PM &amp;#8226; AWS Amazon EC2 Amazon EC2 Bare Metal
  New M5n and R5n EC2 Instances, with up to 100 Gbps Networking
@@ -585,20 +585,20 @@
     
     <item>
       <title>09 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/09/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/09/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/09/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/09/</guid>
       <description> Running Java applications on Amazon EC2 A1 instances with Amazon Corretto
 05:50 PM &amp;#8226; AWS Amazon Corretto Amazon EC2  </description>
     </item>
     
     <item>
       <title>08 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/08/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/08/</link>
       <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/08/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/08/</guid>
       <description>Audit Service Enhancements Are Now Available
 11:05 PM &amp;#8226; Oracle Product News Security
  Amazon EKS Windows Container Support now Generally Available
@@ -612,10 +612,10 @@
     
     <item>
       <title>07 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/07/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/07/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/07/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/07/</guid>
       <description>Using Compute Autoscaling with the Load Balancing Service
 05:17 PM &amp;#8226; Oracle Oracle Cloud Infrastructure
  Designing Images for Compute Autoscaling
@@ -629,10 +629,10 @@
     
     <item>
       <title>04 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/04/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/04/</link>
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/04/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/04/</guid>
       <description>Update: Issue affecting HashiCorp Terraform resource deletions after the VPC Improvements to AWS Lambda
 10:14 PM &amp;#8226; AWS Amazon VPC AWS Lambda
  Install Python libraries on a running cluster with EMR Notebooks
@@ -645,10 +645,10 @@
     
     <item>
       <title>03 October, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/10/03/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/10/03/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/10/03/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/10/03/</guid>
       <description>Improving the Getting Started experience with AWS Lambda
 10:59 PM &amp;#8226; AWS Amazon API Gateway AWS CodeBuild
  New languages for Amazon Translate: Greek, Hungarian, Romanian, Thai, Ukrainian, Urdu and Vietnamese
@@ -660,40 +660,40 @@
     
     <item>
       <title>30 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/30/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/30/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/30/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/30/</guid>
       <description> AWS IQ – Get Help from AWS Certified Third Party Experts on Demand
 05:08 PM &amp;#8226; AWS Launch News  </description>
     </item>
     
     <item>
       <title>27 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/27/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/27/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/27/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/27/</guid>
       <description> Analyze Google Analytics data using Upsolver, Amazon Athena, and Amazon QuickSight
 04:55 PM &amp;#8226; AWS Amazon Athena Amazon QuickSight  </description>
     </item>
     
     <item>
       <title>26 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/26/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/26/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/26/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/26/</guid>
       <description> Oracle Launches FedRAMP-Authorized Government Cloud Regions
 06:41 PM &amp;#8226; Oracle Product News  </description>
     </item>
     
     <item>
       <title>24 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/24/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/24/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/24/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/24/</guid>
       <description>Introducing Batch Mode Processing for Amazon Comprehend Medical
 11:07 PM &amp;#8226; AWS Amazon Comprehend Artificial Intelligence
  AWS DataSync News – S3 Storage Class Support and Much More
@@ -707,10 +707,10 @@
     
     <item>
       <title>23 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/23/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/23/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/23/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/23/</guid>
       <description> Announcing Oracle Cloud Infrastructure Plugins for HashiCorp Vault
 06:12 PM &amp;#8226; Oracle Product News Security
  Automating notifications when AMI permissions change
@@ -720,10 +720,10 @@
     
     <item>
       <title>20 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/20/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/20/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/20/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/20/</guid>
       <description>Upgrade your resume with the AWS Certified Big Data — Specialty Certification
 11:47 PM &amp;#8226; AWS Analytics AWS Big Data
  Integrating an Inferencing Pipeline with NVIDIA DeepStream and the G4 Instance Family
@@ -735,10 +735,10 @@
     
     <item>
       <title>18 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/18/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/18/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/18/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/18/</guid>
       <description>New – Step Functions Support for Dynamic Parallelism
 07:55 PM &amp;#8226; AWS Application Services AWS Step Functions
  Automating your lift-and-shift migration at no cost with CloudEndure Migration
@@ -751,10 +751,10 @@
     
     <item>
       <title>17 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/17/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/17/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/17/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/17/</guid>
       <description> NoSQL Workbench for Amazon DynamoDB – Available in Preview
 02:44 PM &amp;#8226; AWS Amazon DynamoDB Database
  Kinetica Active Analytics on Oracle Cloud Tackles Extreme Data Challenges
@@ -764,10 +764,10 @@
     
     <item>
       <title>16 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/16/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/16/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/16/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/16/</guid>
       <description> Oracle Cloud Infrastructure Brings More Innovations to Customers
 11:18 PM &amp;#8226; Oracle Oracle Cloud Infrastructure Strategy
  Announcing a Certified VMware Solution on Oracle Cloud
@@ -779,30 +779,30 @@
     
     <item>
       <title>13 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/13/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/13/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/13/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/13/</guid>
       <description> Federate Amazon QuickSight access with Okta
 04:09 PM &amp;#8226; AWS Amazon QuickSight Analytics  </description>
     </item>
     
     <item>
       <title>12 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/12/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/12/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/12/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/12/</guid>
       <description> Using new vCPU-based On-Demand Instance limits with Amazon EC2
 04:30 PM &amp;#8226; AWS Amazon EC2  </description>
     </item>
     
     <item>
       <title>11 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/11/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/11/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/11/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/11/</guid>
       <description>Create advanced insights using Level Aware Aggregations in Amazon QuickSight
 09:45 PM &amp;#8226; AWS Amazon QuickSight Analytics
  Learn about AWS Services &amp;amp; Solutions – September AWS Online Tech Talks
@@ -815,10 +815,10 @@
     
     <item>
       <title>06 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/06/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/06/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/06/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/06/</guid>
       <description> Implement perimeter security in Amazon EMR using Apache Knox
 11:28 PM &amp;#8226; AWS Amazon EMR Analytics
  Sharing automated blueprints for Amazon ECS continuous delivery using AWS Service Catalog
@@ -828,20 +828,20 @@
     
     <item>
       <title>05 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/05/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/05/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/05/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/05/</guid>
       <description> Run Spark applications with Docker using Amazon EMR 6.0.0 (Beta)
 09:42 PM &amp;#8226; AWS Amazon EMR Analytics  </description>
     </item>
     
     <item>
       <title>04 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/04/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/04/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/04/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/04/</guid>
       <description> Optimizing NGINX load balancing on Amazon EC2 A1 instances
 05:34 PM &amp;#8226; AWS Amazon EC2 Compute
  Building and testing polyglot applications using AWS CodeBuild
@@ -851,20 +851,20 @@
     
     <item>
       <title>03 September, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/09/03/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/09/03/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/09/03/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/09/03/</guid>
       <description> Announcing improved VPC networking for AWS Lambda functions
 06:48 PM &amp;#8226; AWS Amazon VPC AWS Lambda  </description>
     </item>
     
     <item>
       <title>30 August, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/08/30/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/08/30/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/08/30/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/08/30/</guid>
       <description> Extract Oracle OLTP data in real time with GoldenGate and query from Amazon Athena
 06:02 PM &amp;#8226; AWS Amazon Athena Amazon Managed Streaming for Apache Kafka
  Deploying GitOps with Weave Flux and Amazon EKS
@@ -874,20 +874,20 @@
     
     <item>
       <title>29 August, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/08/29/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/08/29/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/08/29/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/08/29/</guid>
       <description> Automate Amazon Redshift cluster creation using AWS CloudFormation
 07:27 PM &amp;#8226; AWS Amazon Redshift AWS Big Data  </description>
     </item>
     
     <item>
       <title>21 August, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/08/21/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/08/21/</link>
       <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/08/21/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/08/21/</guid>
       <description> How to migrate a large data warehouse from IBM Netezza to Amazon Redshift with no downtime
 06:21 PM &amp;#8226; AWS Amazon Redshift Analytics
  Perform biomedical informatics without a database using MIMIC-III data and Amazon Athena
@@ -897,40 +897,40 @@
     
     <item>
       <title>16 August, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/08/16/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/08/16/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/08/16/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/08/16/</guid>
       <description> Discover metadata with AWS Lake Formation: Part 2
 08:52 PM &amp;#8226; AWS AWS Big Data AWS Lake Formation  </description>
     </item>
     
     <item>
       <title>15 August, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/08/15/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/08/15/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/08/15/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/08/15/</guid>
       <description> Discovering metadata with AWS Lake Formation: Part 1
 04:44 PM &amp;#8226; AWS AWS Big Data AWS Lake Formation  </description>
     </item>
     
     <item>
       <title>13 August, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/08/13/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/08/13/</link>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/08/13/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/08/13/</guid>
       <description> Introducing the capacity-optimized allocation strategy for Amazon EC2 Spot Instances
 01:25 AM &amp;#8226; AWS Amazon EC2 Auto Scaling  </description>
     </item>
     
     <item>
       <title>12 August, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/08/12/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/08/12/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/08/12/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/08/12/</guid>
       <description> ICYMI: Serverless Q2 2019
 07:13 PM &amp;#8226; AWS Amazon API Gateway Amazon Aurora
  Getting started with AWS Lake Formation
@@ -940,10 +940,10 @@
     
     <item>
       <title>08 August, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/08/08/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/08/08/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/08/08/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/08/08/</guid>
       <description> Why AWS is the best place for your Windows workloads, and how Microsoft is changing their licensing to try to awkwardly force you into Azure
 11:52 PM &amp;#8226; AWS Compute
  Integrate and deduplicate datasets using AWS Lake Formation FindMatches
@@ -953,100 +953,100 @@
     
     <item>
       <title>27 July, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/07/27/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/07/27/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/07/27/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/07/27/</guid>
       <description> Optimizing Amazon ECS task density using awsvpc network mode
 01:42 AM &amp;#8226; AWS Amazon EC2 Amazon EC2 Container Registry  </description>
     </item>
     
     <item>
       <title>24 July, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/07/24/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/07/24/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/07/24/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/07/24/</guid>
       <description> Introducing AWS Chatbot: ChatOps for AWS
 11:43 PM &amp;#8226; AWS  </description>
     </item>
     
     <item>
       <title>01 March, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/03/01/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/03/01/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/03/01/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/03/01/</guid>
       <description> Using AWS Lambda and Amazon SNS to Get File Change Notifications from AWS CodeCommit
 01:36 AM &amp;#8226; AWS Amazon CloudWatch Amazon Simple Notification Service (SNS)  </description>
     </item>
     
     <item>
       <title>22 February, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/02/22/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/02/22/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/02/22/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/02/22/</guid>
       <description> Implementing GitFlow Using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, and AWS CodeDeploy
 06:43 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit  </description>
     </item>
     
     <item>
       <title>21 February, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/02/21/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/02/21/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/02/21/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/02/21/</guid>
       <description> Improve Build Performance and Save Time Using Local Caching in AWS CodeBuild
 06:32 PM &amp;#8226; AWS AWS CodeBuild Developer Tools  </description>
     </item>
     
     <item>
       <title>12 February, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/02/12/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/02/12/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/02/12/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/02/12/</guid>
       <description> Using Git with AWS CodeCommit Across Multiple AWS Accounts
 09:06 AM &amp;#8226; AWS AWS CLI AWS CodeCommit  </description>
     </item>
     
     <item>
       <title>11 February, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/02/11/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/02/11/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/02/11/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/02/11/</guid>
       <description> Validating AWS CodeCommit Pull Requests with AWS CodeBuild and AWS Lambda
 05:01 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit  </description>
     </item>
     
     <item>
       <title>30 January, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/01/30/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/01/30/</link>
       <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/01/30/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/01/30/</guid>
       <description> How to Use Cross-Account ECR Images in AWS CodeBuild for Your Build Environment
 12:39 AM &amp;#8226; AWS Amazon EC2 Container Registry AWS CodeBuild  </description>
     </item>
     
     <item>
       <title>28 January, 2019</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2019/01/28/</link>
+      <link>http://staging.cloudchangelog.com/posts/2019/01/28/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2019/01/28/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2019/01/28/</guid>
       <description> How to Use Docker Images from a Private Registry for Your Build Environment
 08:04 PM &amp;#8226; AWS AWS CodeBuild Developer Tools  </description>
     </item>
     
     <item>
       <title>27 November, 2018</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2018/11/27/</link>
+      <link>http://staging.cloudchangelog.com/posts/2018/11/27/</link>
       <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2018/11/27/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2018/11/27/</guid>
       <description> Use AWS CodeDeploy to Implement Blue/Green Deployments for AWS Fargate and Amazon ECS
 11:26 PM &amp;#8226; AWS Amazon Elastic Container Service AWS CodeDeploy
  Build a Continuous Delivery Pipeline for Your Container Images with Amazon ECR as Source
@@ -1056,90 +1056,90 @@
     
     <item>
       <title>23 November, 2018</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2018/11/23/</link>
+      <link>http://staging.cloudchangelog.com/posts/2018/11/23/</link>
       <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2018/11/23/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2018/11/23/</guid>
       <description> Using AWS CodePipeline to Perform Multi-Region Deployments
 10:59 PM &amp;#8226; AWS AWS CodePipeline AWS CloudFormation  </description>
     </item>
     
     <item>
       <title>15 October, 2018</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2018/10/15/</link>
+      <link>http://staging.cloudchangelog.com/posts/2018/10/15/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2018/10/15/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2018/10/15/</guid>
       <description> New – How to better monitor your custom application metrics using Amazon CloudWatch Agent
 06:56 PM &amp;#8226; AWS Amazon CloudWatch DevOps  </description>
     </item>
     
     <item>
       <title>05 October, 2018</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2018/10/05/</link>
+      <link>http://staging.cloudchangelog.com/posts/2018/10/05/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2018/10/05/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2018/10/05/</guid>
       <description> Using Federated Identities with AWS CodeCommit
 07:03 PM &amp;#8226; AWS AWS CodeCommit  </description>
     </item>
     
     <item>
       <title>04 October, 2018</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2018/10/04/</link>
+      <link>http://staging.cloudchangelog.com/posts/2018/10/04/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2018/10/04/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2018/10/04/</guid>
       <description> How to Test and Debug AWS CodeDeploy Locally Before You Ship Your Code
 11:14 PM &amp;#8226; AWS AWS CodeDeploy Developer Tools  </description>
     </item>
     
     <item>
       <title>03 October, 2018</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2018/10/03/</link>
+      <link>http://staging.cloudchangelog.com/posts/2018/10/03/</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2018/10/03/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2018/10/03/</guid>
       <description> Building an Amazon CloudWatch Dashboard Outside of the AWS Management Console
 12:19 AM &amp;#8226; AWS Amazon CloudWatch DevOps  </description>
     </item>
     
     <item>
       <title>25 September, 2018</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2018/09/25/</link>
+      <link>http://staging.cloudchangelog.com/posts/2018/09/25/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2018/09/25/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2018/09/25/</guid>
       <description> Reduce Time to Resolution with Amazon CloudWatch Snapshot Graphs and Alerts
 07:43 PM &amp;#8226; AWS Amazon CloudWatch DevOps  </description>
     </item>
     
     <item>
       <title>18 September, 2018</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2018/09/18/</link>
+      <link>http://staging.cloudchangelog.com/posts/2018/09/18/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2018/09/18/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2018/09/18/</guid>
       <description> How to Run Headless Front-End Tests with AWS Cloud9 and AWS CodeBuild
 11:17 PM &amp;#8226; AWS AWS CodeBuild Developer Tools  </description>
     </item>
     
     <item>
       <title>25 May, 2018</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2018/05/25/</link>
+      <link>http://staging.cloudchangelog.com/posts/2018/05/25/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2018/05/25/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2018/05/25/</guid>
       <description> Extending AWS CodeBuild with Custom Build Environments for the .NET Framework
 05:29 PM &amp;#8226; AWS AWS CodeBuild  </description>
     </item>
     
     <item>
       <title>24 May, 2018</title>
-      <link>https://cloudchangelog.github.io/staging/posts/2018/05/24/</link>
+      <link>http://staging.cloudchangelog.com/posts/2018/05/24/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudchangelog.github.io/staging/posts/2018/05/24/</guid>
+      <guid>http://staging.cloudchangelog.com/posts/2018/05/24/</guid>
       <description> Integrating JFrog Artifactory with AWS CodePipeline
 05:58 PM &amp;#8226; AWS AWS CodePipeline artifactory  </description>
     </item>
