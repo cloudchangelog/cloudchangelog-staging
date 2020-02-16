@@ -6,10 +6,820 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://staging.cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>15 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/15/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/15/</guid>
+      <description> New – Multi-Attach for Provisioned IOPS (io1) Amazon EBS Volumes
+12:07 AM &amp;#8226; AWS Launch News  </description>
+    </item>
+    
+    <item>
+      <title>14 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/14/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/14/</guid>
+      <description> Load data incrementally and optimized Parquet writer with AWS Glue
+07:06 PM &amp;#8226; AWS Analytics AWS Big Data
+ Showing the C++ developer love with new client libraries
+05:00 PM &amp;#8226; GCP Application Development
+ Logging + Trace: love at first insight
+05:00 PM &amp;#8226; GCP Management Tools
+ Taking a practical approach to BigQuery slot usage analysis
+05:00 PM &amp;#8226; GCP Data Analytics
+  </description>
+    </item>
+    
+    <item>
+      <title>13 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/13/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/13/</guid>
+      <description>Ironclad Security Provided by Oracle Cloud Infrastructure File Storage
+10:57 PM &amp;#8226; Oracle
+ How Udacity students succeed with Google Cloud
+07:00 PM &amp;#8226; GCP Compute Customers
+ Plan your Next ‘20 journey: Session guide available now
+05:00 PM &amp;#8226; GCP Inside Google Cloud Events
+ SQL Server runs best on Azure. Here’s why.
+12:00 PM &amp;#8226; Azure Developer Database
+ Low code programming with Node-RED comes to GCP</description>
+    </item>
+    
+    <item>
+      <title>12 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/12/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/12/</guid>
+      <description>Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics
+10:00 PM &amp;#8226; GCP Data Analytics
+ Announcing the Availability of VM for Data Science and AI on Oracle Cloud Infrastructure
+06:06 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ New: Use AWS CloudFormation StackSets for Multiple Accounts in an AWS Organization
+06:02 PM &amp;#8226; AWS AWS CloudFormation AWS Organizations
+ Running workloads on dedicated hardware just got better</description>
+    </item>
+    
+    <item>
+      <title>11 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/11/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/11/</guid>
+      <description>Migrating ASP.NET applications to Elastic Beanstalk with Windows Web Application Migration Assistant
+11:47 PM &amp;#8226; AWS AWS Elastic Beanstalk Migration
+ Announcing Oracle Cloud Shell
+09:39 PM &amp;#8226; Oracle Developer Tools
+ Building a serverless URL shortener app without AWS Lambda – part 3
+09:19 PM &amp;#8226; AWS Amazon API Gateway Amazon CloudFront
+ Building a serverless URL shortener app without AWS Lambda – part 2
+09:15 PM &amp;#8226; AWS Amazon API Gateway Amazon Cognito</description>
+    </item>
+    
+    <item>
+      <title>10 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/10/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/10/</guid>
+      <description> Oracle’s Infrastructure Transformation: Get an Inside Look at Oracle OpenWorld Europe
+11:56 PM &amp;#8226; Oracle
+ Integrating Amazon EventBridge into your serverless applications
+02:42 PM &amp;#8226; AWS Amazon EventBridge AWS Lambda
+ AgroScout Improves Development and DevOps with Oracle Cloud Native Services
+02:00 PM &amp;#8226; Oracle Customer Stories Developer Tools
+  </description>
+    </item>
+    
+    <item>
+      <title>07 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/07/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/07/</guid>
+      <description> Customizing triggers for AWS CodePipeline with AWS Lambda and Amazon CloudWatch Events
+10:46 PM &amp;#8226; AWS Amazon CloudWatch AWS CodePipeline
+ Building Windows containers with AWS CodePipeline and custom actions
+08:07 PM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline
+ Last month today: January at Google Cloud
+07:30 PM &amp;#8226; GCP
+  </description>
+    </item>
+    
+    <item>
+      <title>06 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/06/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/06/</guid>
+      <description>EC2 Price Reduction in the São Paulo Region (R5 and I3)
+08:34 PM &amp;#8226; AWS Amazon EC2 Compute
+ Announcing VCN Flow Logs for Oracle Cloud Infrastructure
+08:06 PM &amp;#8226; Oracle
+ Forrester looks at the opportunity for Google Cloud partners
+05:00 PM &amp;#8226; GCP Research Partners
+ How SAP users are achieving retail transformation with Google Cloud
+05:00 PM &amp;#8226; GCP Retail Inside Google Cloud
+ Building more secure data pipelines with Cloud Data Fusion</description>
+    </item>
+    
+    <item>
+      <title>05 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/05/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/05/</guid>
+      <description>AWS Online Tech Talks for February 2020
+05:11 PM &amp;#8226; AWS
+ Scale your Composer environment together with your business
+05:00 PM &amp;#8226; GCP Data Analytics
+ Registration for Amazon re:MARS 2020 is OPEN 🎉
+02:03 PM &amp;#8226; AWS Alexa Amazon Machine Learning
+ Advancing safe deployment practices
+10:00 AM &amp;#8226; Azure Cloud Strategy Management
+ Backup Explorer now available in preview
+08:00 AM &amp;#8226; Azure Storage, Backup &amp;amp; Recovery Management</description>
+    </item>
+    
+    <item>
+      <title>04 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/04/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/04/</guid>
+      <description> New Desktop Client for AWS Client VPN
+10:53 PM &amp;#8226; AWS AWS VPN Launch
+ Reducing custom code by using advanced rules in Amazon EventBridge
+10:07 PM &amp;#8226; AWS Amazon EventBridge Amazon Simple Storage Services (S3)
+ Bringing a passion for privacy to Cloud
+07:00 PM &amp;#8226; GCP
+ Understanding the Persona of the Underserved and Unbanked by Using Oracle Cloud Tools
+05:10 PM &amp;#8226; Oracle Customer Stories
+  </description>
+    </item>
+    
+    <item>
+      <title>03 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/03/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/03/</guid>
+      <description> Build ARM-based applications using CodeBuild
+08:41 PM &amp;#8226; AWS AWS CodeBuild Developer Tools
+ Oracle Builds on Cloud Momentum with Five New Regions Worldwide
+01:00 PM &amp;#8226; Oracle
+  </description>
+    </item>
+    
+    <item>
+      <title>31 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/31/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/31/</guid>
+      <description> Build machine learning-powered business intelligence analyses using Amazon QuickSight
+09:34 PM &amp;#8226; AWS Amazon Machine Learning Amazon QuickSight
+ Identifying and tracking toil using SRE principles
+05:00 PM &amp;#8226; GCP Management Tools
+  </description>
+    </item>
+    
+    <item>
+      <title>30 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/30/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/30/</guid>
+      <description> Fact-checking GigaOm’s Microsoft-sponsored benchmark claims
+10:34 PM &amp;#8226; AWS AWS on Windows Compute
+ Windows Server applications, welcome to Google Kubernetes Engine
+06:00 PM &amp;#8226; GCP Compute Cloud Migration
+ Hyperledger Fabric on Azure Kubernetes Service Marketplace template
+10:00 AM &amp;#8226; Azure Blockchain
+  </description>
+    </item>
+    
+    <item>
+      <title>29 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/29/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/29/</guid>
+      <description> 10 recommendations for cloud privacy and security with Ponemon research
+10:00 AM &amp;#8226; Azure Security
+ Announcing Oracle Cloud Infrastructure Data Transfer Service for Data Export
+09:00 AM &amp;#8226; Oracle Oracle Cloud Infrastructure Product News
+  </description>
+    </item>
+    
+    <item>
+      <title>28 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/28/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/28/</guid>
+      <description>Receive AWS Developer Tools Notifications over Slack using AWS Chatbot
+10:41 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit
+ Expanding our alliance with Cisco in hybrid cloud and the contact center
+07:00 PM &amp;#8226; GCP Anthos Hybrid Cloud
+ Unify Kubernetes and GCP resources for simpler and faster deployments
+05:00 PM &amp;#8226; GCP DevOps &amp;amp; SRE Containers &amp;amp; Kubernetes
+ 10 top tips: Unleash your BigQuery superpowers
+05:00 PM &amp;#8226; GCP BigQuery Data Analytics</description>
+    </item>
+    
+    <item>
+      <title>27 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/27/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/27/</guid>
+      <description>Update on Amazon Linux AMI end-of-life
+11:04 PM &amp;#8226; AWS Amazon EC2 Compute
+ Using the GitLab CI/CD Pipelines Integrated Workflow To Build, Test, Deploy, and Monitor Your &amp;hellip;
+09:09 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ What’s happening in BigQuery: New federated queries, easier ML, and more metadata
+05:00 PM &amp;#8226; GCP BigQuery Data Analytics
+ Exploring an Apache Kafka to Pub/Sub migration: Major considerations
+05:00 PM &amp;#8226; GCP Application Development Data Analytics</description>
+    </item>
+    
+    <item>
+      <title>24 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/24/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/24/</guid>
+      <description>Analyze your Amazon S3 spend using AWS Glue and Amazon Redshift
+10:19 PM &amp;#8226; AWS Amazon Redshift Amazon Simple Storage Services (S3)
+ AWS DataSync Update – Support for Amazon FSx for Windows File Server
+08:56 PM &amp;#8226; AWS Amazon FSx for Windows AWS DataSync
+ Using Terraform to Manage Your APIs
+08:52 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ New GA Dataproc features extend data science and ML capabilities</description>
+    </item>
+    
+    <item>
+      <title>23 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/23/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/23/</guid>
+      <description> Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut
+05:00 PM &amp;#8226; GCP Compute AI &amp;amp; Machine Learning  </description>
+    </item>
+    
+    <item>
+      <title>22 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/22/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/22/</guid>
+      <description>4 ways Anthos delivers ROI to customers, according to new Forrester Consulting Study
+06:00 PM &amp;#8226; GCP Hybrid Cloud Research
+ Introducing Google Cloud’s Secret Manager
+05:00 PM &amp;#8226; GCP API Management Management Tools
+ MSC Mediterranean Shipping Company on Azure Site Recovery, “ASR worked like magic”
+09:00 AM &amp;#8226; Azure Virtual Machines Management
+ Mediterranean Shipping Company on Azure Site Recovery
+09:00 AM &amp;#8226; Azure Virtual Machines Management</description>
+    </item>
+    
+    <item>
+      <title>21 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/21/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/21/</guid>
+      <description> Cross-account AWS Glue Data Catalog access with Amazon Athena
+09:03 PM &amp;#8226; AWS Amazon Athena Analytics
+ Amazon EKS Price Reduction
+05:52 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service
+ MLOps—the path to building a competitive edge
+09:00 AM &amp;#8226; Azure Machine Learning
+  </description>
+    </item>
+    
+    <item>
+      <title>20 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/20/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/20/</guid>
+      <description> CloudEndure Highly Automated Disaster Recovery – 80% Price Reduction
+06:12 PM &amp;#8226; AWS Launch News
+ In the Works – AWS Osaka Local Region Expansion to Full Region
+06:20 AM &amp;#8226; AWS Launch News
+  </description>
+    </item>
+    
+    <item>
+      <title>18 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/18/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/18/</guid>
+      <description> How FactSet automated exporting data from Amazon DynamoDB to Amazon S3 Parquet to build a data analytics platform
+12:30 AM &amp;#8226; AWS Amazon DynamoDB Amazon EMR  </description>
+    </item>
+    
+    <item>
+      <title>17 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/17/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/17/</guid>
+      <description> Want to use AutoML Tables from a Jupyter Notebook? Here’s how
+05:00 PM &amp;#8226; GCP AutoML AI &amp;amp; Machine Learning  </description>
+    </item>
+    
+    <item>
+      <title>16 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/16/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/16/</guid>
+      <description> New Anthos training: a masterclass in hybrid cloud architecture and management
+06:00 PM &amp;#8226; GCP Anthos Hybrid Cloud
+ Azure Data Explorer and Stream Analytics for anomaly detection
+10:00 AM &amp;#8226; Azure Data Science
+ Microsoft Sustainability Calculator helps enterprises analyze the carbon emissions of their IT infrastructure
+09:00 AM &amp;#8226; Azure
+ Creating a more accessible world with Azure AI
+08:00 AM &amp;#8226; Azure Artificial Intelligence
+  </description>
+    </item>
+    
+    <item>
+      <title>15 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/15/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/15/</guid>
+      <description>ICYMI: Serverless Q4 2019
+09:17 PM &amp;#8226; AWS Amazon API Gateway Amazon Athena
+ Using artificial intelligence to detect product defects with AWS Step Functions
+07:45 PM &amp;#8226; AWS
+ Using deemed SLIs to measure customer reliability
+05:00 PM &amp;#8226; GCP DevOps &amp;amp; SRE Management Tools
+ Announcing the launch of Premium Support for your enterprise and mission-critical needs
+05:00 PM &amp;#8226; GCP G Suite Management Tools
+ Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark</description>
+    </item>
+    
+    <item>
+      <title>14 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/14/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/14/</guid>
+      <description>Right-Size Your VM Instances to Support Your Workload
+09:54 PM &amp;#8226; Oracle
+ Google acquires AppSheet to help businesses create and extend applications—without coding
+06:30 PM &amp;#8226; GCP Inside Google Cloud
+ Learning from cryptocurrency mining attack scripts on Linux
+10:00 AM &amp;#8226; Azure Security Monitoring
+ Turning to a new chapter of Windows Server innovation
+09:00 AM &amp;#8226; Azure IT Pro Virtual Machines
+ AWS Backup: EC2 Instances, EFS Single File Restore, and Cross-Region Backup</description>
+    </item>
+    
+    <item>
+      <title>13 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/13/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/13/</guid>
+      <description>New for Amazon EFS – IAM Authorization and Access Points
+08:32 PM &amp;#8226; AWS Amazon Elastic File System (EFS) AWS Identity and Access Management (IAM)
+ IBM Power Systems now available on Google Cloud
+05:00 PM &amp;#8226; GCP Cloud Migration Hybrid Cloud
+ Performance art: Making cloud network performance benchmarking faster and easier
+04:30 PM &amp;#8226; GCP Management Tools Networking
+ Google Cloud helps retailers win the digital race</description>
+    </item>
+    
+    <item>
+      <title>10 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/10/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/10/</guid>
+      <description>Amazon Redshift at re:Invent 2019
+09:19 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Lustre File System Performance on Oracle Cloud Infrastructure
+07:13 PM &amp;#8226; Oracle Partners Performance
+ Oracle Cloud Days 2020: Building Your Future
+06:27 PM &amp;#8226; Oracle Events Oracle Cloud Infrastructure
+ Exploring container security: Navigate the security seas with ease in GKE v1.15
+05:00 PM &amp;#8226; GCP Identity &amp;amp; Security Exploring Container Security
+ A home away from home: Wayfair goes hybrid on Google Cloud with 100 Gbps Dedicated Interconnect</description>
+    </item>
+    
+    <item>
+      <title>09 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/09/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/09/</guid>
+      <description>How Verizon Media Group migrated from on-premises Apache Hadoop and Spark to Amazon EMR
+07:35 PM &amp;#8226; AWS Amazon EMR Analytics
+ Trying cloud on for size: URBN’s Nuuly builds from scratch with Google Cloud
+05:00 PM &amp;#8226; GCP Retail Customers
+ Exploratory data analysis, feature selection for better ML models
+05:00 PM &amp;#8226; GCP Data Analytics AI &amp;amp; Machine Learning
+ Join us at Google Cloud Next ‘20: April 6-8 in SF</description>
+    </item>
+    
+    <item>
+      <title>08 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/08/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/08/</guid>
+      <description> Put your archive data on ice with new storage offering
+05:00 PM &amp;#8226; GCP Storage &amp;amp; Data Transfer
+ Creating CI/CD pipelines for ASP.NET 4.x with AWS CodePipeline and AWS Elastic Beanstalk
+04:22 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit
+  </description>
+    </item>
+    
+    <item>
+      <title>07 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/07/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/07/</guid>
+      <description>Running Ceph Clusters with Rook in Oracle Container Engine for Kubernetes
+09:47 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ Cross-Region Boot Volume Backups for Instance Disaster Recovery, Migration, and Expansion
+05:59 PM &amp;#8226; Oracle
+ Urgent &amp;amp; Important – Rotate Your Amazon RDS, Aurora, and DocumentDB Certificates
+05:50 PM &amp;#8226; AWS Amazon Aurora Amazon DocumentDB
+ Google Cloud and FDA MyStudies: Harnessing real-world data for medical research</description>
+    </item>
+    
+    <item>
+      <title>06 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/06/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/06/</guid>
+      <description>Amazon at CES 2020 – Connectivity &amp;amp; Mobility
+07:14 PM &amp;#8226; AWS Launch News
+ Connect to your VPC and managed Redis from App Engine and Cloud Functions
+05:30 PM &amp;#8226; GCP Compute Serverless
+ BPAY: Uncovering new business opportunities with APIs
+05:00 PM &amp;#8226; GCP Apigee Customers
+ Orchestrating a security incident response with AWS Step Functions
+03:42 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Lambda</description>
+    </item>
+    
+    <item>
+      <title>03 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/03/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/03/</guid>
+      <description> The Power of Oracle Cloud, as Seen at Oracle
+10:16 PM &amp;#8226; Oracle
+ Building an AWS IoT Core device using AWS Serverless and an ESP32
+10:02 PM &amp;#8226; AWS AWS IoT Platform AWS Lambda
+ Getting started with new table formats on Dataproc
+05:00 PM &amp;#8226; GCP Data Analytics
+ Advancing no-impact and low-impact maintenance technologies
+10:00 AM &amp;#8226; Azure Virtual Machines Management
+  </description>
+    </item>
+    
+    <item>
+      <title>02 January, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/01/02/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/01/02/</guid>
+      <description> Upcoming changes to the Python SDK in AWS Lambda
+09:28 PM &amp;#8226; AWS AWS Lambda AWS SDK for Python
+ Continued support for Python 2.7 on AWS Lambda
+09:23 PM &amp;#8226; AWS AWS Lambda Compute
+ Start 2020 off right with these New Year’s tech resolutions
+05:00 PM &amp;#8226; GCP
+ Maximize data ingestion and reporting performance on Amazon Redshift
+04:34 PM &amp;#8226; AWS Amazon Redshift Analytics
+  </description>
+    </item>
+    
+    <item>
+      <title>31 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/31/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/31/</guid>
+      <description> Amazon QuickSight: 2019 in review
+09:44 PM &amp;#8226; AWS Amazon QuickSight Analytics  </description>
+    </item>
+    
+    <item>
+      <title>30 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/30/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/30/</guid>
+      <description> Celebrating AWS Community Leaders at re:Invent 2019
+09:09 PM &amp;#8226; AWS Launch News  </description>
+    </item>
+    
+    <item>
+      <title>23 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/23/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/23/</guid>
+      <description> Working with nested data types using Amazon Redshift Spectrum
+08:55 PM &amp;#8226; AWS Amazon Redshift Analytics  </description>
+    </item>
+    
+    <item>
+      <title>22 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/22/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/22/</guid>
+      <description> Multi-branch CodePipeline strategy with event-driven architecture
+09:21 PM &amp;#8226; AWS DevOps Amazon CloudWatch  </description>
+    </item>
+    
+    <item>
+      <title>21 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/21/</link>
+      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/21/</guid>
+      <description> Collect and distribute high-resolution crypto market data with ECS, S3, Athena, Lambda, and AWS Data Exchange
+12:28 AM &amp;#8226; AWS Amazon Athena Amazon Elastic Container Service  </description>
+    </item>
+    
+    <item>
+      <title>20 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/20/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/20/</guid>
+      <description>ICYMI: Serverless re:Invent re:Cap 2019
+09:51 PM &amp;#8226; AWS Amazon API Gateway Amazon CodeGuru
+ Jumpstart Your Cloud Skills with Free Oracle Cloud Learning Resources
+08:04 PM &amp;#8226; Oracle
+ Oracle Cloud Infrastructure API Gateway Now Generally Available
+07:15 PM &amp;#8226; Oracle Developer Tools Product News
+ Opening doors, embracing change with cloud data warehouses
+05:30 PM &amp;#8226; GCP Data Analytics
+ Google Cloud: Supporting our customers with the California Consumer Privacy Act (CCPA)</description>
+    </item>
+    
+    <item>
+      <title>19 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/19/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/19/</guid>
+      <description>Big data, big world: new NOAA datasets available on Google Cloud
+08:00 PM &amp;#8226; GCP Data Analytics
+ Last year today: Top Google Cloud posts in 2019
+05:00 PM &amp;#8226; GCP
+ Azure Lighthouse: The managed service provider perspective
+11:00 AM &amp;#8226; Azure Management Partner
+ Connecting Microsoft Azure and Oracle Cloud in the UK and Canada
+10:00 AM &amp;#8226; Azure Partner
+ Tips for learning Azure in the new year</description>
+    </item>
+    
+    <item>
+      <title>18 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/18/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/18/</guid>
+      <description>Year in review: smart analytics makes leaps and bounds
+10:00 PM &amp;#8226; GCP Data Analytics
+ Alejandra’s Top 5 Favorite re:Invent🎉 Launches of 2019
+09:57 PM &amp;#8226; AWS Amazon EC2 AWS Amplify
+ Data Protection: The Essential Missing Element for Kubernetes Success
+09:52 PM &amp;#8226; Oracle Oracle Cloud Infrastructure Partners
+ Integrating B2B using event notifications with Amazon SNS
+09:35 PM &amp;#8226; AWS Amazon Simple Notification Service (SNS) Messaging</description>
+    </item>
+    
+    <item>
+      <title>17 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/17/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/17/</guid>
+      <description>Deploying a Cross-Cloud, GPU-Enabled Kubernetes Cluster Running on Oracle Cloud Infrastructure &amp;hellip;
+10:00 PM &amp;#8226; Oracle
+ JFrog Artifactory and Oracle Cloud
+09:58 PM &amp;#8226; Oracle
+ Running ANSYS Fluent on Amazon EC2 C5n with Elastic Fabric Adapter (EFA)
+08:52 PM &amp;#8226; AWS Compute Amazon EC2
+ Orchestrating an application process with AWS Batch using AWS CloudFormation
+08:41 PM &amp;#8226; AWS AWS Batch Compute
+ Oracle Cloud Launches Cloud Regions for US Department of Defense Usage</description>
+    </item>
+    
+    <item>
+      <title>16 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/16/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/16/</guid>
+      <description>Getting Started with Oracle Autonomous Linux
+09:30 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ New – Amazon Comprehend Medical Adds Ontology Linking
+07:39 PM &amp;#8226; AWS Amazon Comprehend Amazon Comprehend Medical
+ Coming soon: Updated Lambda states lifecycle for VPC networking
+07:33 PM &amp;#8226; AWS Amazon VPC AWS Lambda
+ Availability, scale, and ease of management with new Layer-4 Internal Load Balancing features
+05:00 PM &amp;#8226; GCP Networking</description>
+    </item>
+    
+    <item>
+      <title>14 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/14/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/14/</guid>
+      <description> ETL and ELT design patterns for lake house architecture using Amazon Redshift: Part 2
+01:19 AM &amp;#8226; AWS Amazon Redshift Analytics
+ ETL and ELT design patterns for lake house architecture using Amazon Redshift: Part 1
+01:17 AM &amp;#8226; AWS Amazon Redshift Analytics
+  </description>
+    </item>
+    
+    <item>
+      <title>12 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/12/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/12/</guid>
+      <description>Integrating SonarQube as a pull request approver on AWS CodeCommit
+11:39 PM &amp;#8226; AWS AWS CodeCommit Developer Tools
+ Keep a better eye on your Google Cloud environment
+06:30 PM &amp;#8226; GCP Management Tools
+ Using HLL++ to speed up count-distinct in massive datasets
+06:30 PM &amp;#8226; GCP Data Analytics
+ Introducing Storage Transfer Service for on-premises data
+05:00 PM &amp;#8226; GCP Storage &amp;amp; Data Transfer
+ Discover insights from text with AutoML Natural Language, now generally available</description>
+    </item>
+    
+    <item>
+      <title>11 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/11/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/11/</guid>
+      <description>Accenture Testing Proves Low Latency and Ease of Use of Microsoft-Oracle Cloud Interconnection
+09:39 PM &amp;#8226; Oracle Partners
+ Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine
+05:01 PM &amp;#8226; GCP Compute
+ Performance-driven dynamic resource management in E2 VMs
+05:00 PM &amp;#8226; GCP Compute
+ What’s new in Cloud Run for Anthos
+05:00 PM &amp;#8226; GCP Compute Hybrid Cloud
+ Combine the Power of Video Indexer and Computer Vision</description>
+    </item>
+    
+    <item>
+      <title>10 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/10/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/10/</guid>
+      <description>Using the Multiple-Instance Attach Block Volume Feature to Create a Shared File System on &amp;hellip;
+09:00 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ Announcing Multiple-Instance Attachment of Shareable Read/Write Block Volumes
+07:10 PM &amp;#8226; Oracle Customer Stories Developer Tools
+ Exploring container security: Performing forensics on your GKE environment
+07:00 PM &amp;#8226; GCP Identity &amp;amp; Security GKE
+ 8 production-ready features you’ll find in Cloud Run fully managed</description>
+    </item>
+    
+    <item>
+      <title>09 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/09/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/09/</guid>
+      <description>AWS Links &amp;amp; Updates – Monday, December 9, 2019
+07:57 PM &amp;#8226; AWS Launch News
+ Matching patient records with the AWS Lake Formation FindMatches transform
+06:49 PM &amp;#8226; AWS Analytics AWS Big Data
+ New climate model data now in Google Public Datasets
+05:00 PM &amp;#8226; GCP Data Analytics
+ Modernize your apps with Migrate for Anthos
+03:00 PM &amp;#8226; GCP Containers &amp;amp; Kubernetes Cloud Migration
+ Learning—and teaching—the art of service-level objectives &amp;ndash; CRE Life Lessons</description>
+    </item>
+    
+    <item>
+      <title>06 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/06/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/06/</guid>
+      <description> Developing Modern Web Applications and Microservices with JHipster on Container Engine for &amp;hellip;
+09:48 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ Protecting your GCP infrastructure with Forseti Config Validator part four: Using Terraform Validator
+05:00 PM &amp;#8226; GCP Identity &amp;amp; Security
+ Expanding the serverless ecosystem for Cloud Run
+05:00 PM &amp;#8226; GCP Serverless Partners
+  </description>
+    </item>
+    
+    <item>
+      <title>05 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/05/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/05/</guid>
+      <description>New Express Workflows for AWS Step Functions
+09:45 PM &amp;#8226; AWS AWS re:Invent AWS Step Functions
+ Check out The Amazon Builders’ Library – This is How We Do It!
+05:29 PM &amp;#8226; AWS AWS re:Invent Launch
+ Networking cost optimization best practices: an overview
+05:00 PM &amp;#8226; GCP Networking
+ 5 favorite tools for improved log analytics
+05:00 PM &amp;#8226; GCP Management Tools
+ Shrinking the time to mitigate production incidents - CRE life lessons</description>
+    </item>
+    
+    <item>
+      <title>04 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/04/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/04/</guid>
+      <description>Amplify DataStore – Simplify Development of Offline Apps with GraphQL
+11:41 PM &amp;#8226; AWS AWS Amplify AWS AppSync
+ New Express Workflows for AWS Step Functions
+06:02 PM &amp;#8226; AWS AWS Step Functions Serverless
+ New for AWS Lambda – Predictable start-up times with Provisioned Concurrency
+05:34 PM &amp;#8226; AWS AWS Lambda Serverless
+ Last month today: November on GCP
+05:00 PM &amp;#8226; GCP
+ Simplified data transformations for machine learning in BigQuery</description>
+    </item>
+    
+    <item>
+      <title>03 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/03/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/03/</guid>
+      <description>AWS ECS Cluster Auto Scaling is Now Generally Available
+11:41 PM &amp;#8226; AWS Amazon Elastic Container Service Containers
+ AWS Fargate Spot Now Generally Available
+11:37 PM &amp;#8226; AWS AWS Fargate
+ New – EBS Direct APIs – Programmatic Access to EBS Snapshot Content
+11:21 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) AWS re:Invent
+ Use AWS Transit Gateway &amp;amp; Direct Connect to Centralize and Streamline Your Network Connectivity</description>
+    </item>
+    
+    <item>
+      <title>02 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/02/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/02/</guid>
+      <description>Identify Unintended Resource Access with AWS Identity and Access Management (IAM) Access Analyzer
+10:14 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) Launch
+ Governance and Automation with Oracle Events and Functions
+06:04 PM &amp;#8226; Oracle Solutions
+ Amazon Braket – Get Started with Quantum Computing
+05:18 PM &amp;#8226; AWS AWS re:Invent Launch
+ Unique Identifier helps troubleshooting VPC Service Controls perimeter
+05:00 PM &amp;#8226; GCP Solutions and How-to&amp;#39;s Identity &amp;amp; Security</description>
+    </item>
+    
+    <item>
+      <title>01 December, 2019</title>
+      <link>http://staging.cloudchangelog.com/posts/2019/12/01/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2019/12/01/</guid>
+      <description> Advancing the medical imaging field with cloud-based solutions at RSNA
+03:00 PM &amp;#8226; GCP AI &amp;amp; Machine Learning Healthcare &amp;amp; Life Sciences  </description>
+    </item>
     
     <item>
       <title>28 November, 2019</title>
@@ -17,7 +827,9 @@
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://staging.cloudchangelog.com/posts/2019/11/28/</guid>
-      <description> ICYMI: Serverless pre:Invent 2019
+      <description> DevOps at re:Invent 2019!
+05:03 PM &amp;#8226; AWS AWS re:Invent Developer Tools
+ ICYMI: Serverless pre:Invent 2019
 03:58 AM &amp;#8226; AWS Amazon CloudWatch Amazon Simple Notification Service (SNS)
  Tracking the state of Lambda functions
 02:20 AM &amp;#8226; AWS AWS Lambda Serverless
