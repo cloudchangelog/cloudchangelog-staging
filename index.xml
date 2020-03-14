@@ -6,10 +6,255 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://staging.cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13 March, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/03/13/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/03/13/</guid>
+      <description>Using Local Persistent Volumes with Container Engine for Kubernetes
+10:18 PM &amp;#8226; Oracle Oracle Cloud Infrastructure Solutions
+ Enable traffic encryption between services in AWS App Mesh using AWS Certificate Manager or customer-provided certificates
+09:48 PM &amp;#8226; AWS AWS App Mesh AWS Certificate Manager
+ Scheduling a secure data transfer using AWS DataSync
+07:36 PM &amp;#8226; AWS AWS DataSync Migration and Transfer
+ Gathering Market Intelligence from the Web Using Cloud-Based AI and ML Techniques</description>
+    </item>
+    
+    <item>
+      <title>12 March, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/03/12/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/03/12/</guid>
+      <description>Building faster, lower cost, better APIs – HTTP APIs now generally available
+08:50 PM &amp;#8226; AWS Amazon API Gateway AWS Serverless Application Model
+ Building a Business Case for SAP on AWS to Unlock New Value for the Enterprise
+06:10 PM &amp;#8226; AWS AWS Partner Network Customer Solutions
+ NAB 2020 Update and Online Events
+05:40 PM &amp;#8226; AWS Announcements Media &amp;amp; Entertainment
+ Simplify your day with SSH config file entries and self closing tunnels</description>
+    </item>
+    
+    <item>
+      <title>11 March, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/03/11/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/03/11/</guid>
+      <description>Hey Siri! Create My Container Engine for Kubernetes Cluster!
+10:09 PM &amp;#8226; Oracle Partners
+ OS Management with Oracle Cloud Infrastructure
+09:44 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ Say Hello to 42 New AWS Competency, Service Delivery, and MSP Partners Added in February
+09:18 PM &amp;#8226; AWS Announcements AWS Partner Network
+ Tune Hadoop and Spark performance with Dr. Elephant and Sparklens on Amazon EMR
+06:42 PM &amp;#8226; AWS Amazon EMR Analytics</description>
+    </item>
+    
+    <item>
+      <title>10 March, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/03/10/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/03/10/</guid>
+      <description>Migrating legacy PostgreSQL databases to Amazon RDS or Aurora PostgreSQL using Bucardo
+10:16 PM &amp;#8226; AWS Amazon Aurora Amazon RDS
+ Bottlerocket – Open Source OS for Container Hosting
+09:53 PM &amp;#8226; AWS Containers Launch
+ Validate your expertise in AWS purpose-built databases with new AWS Certification
+08:09 PM &amp;#8226; AWS Announcements Database
+ The AWS Serverless Application Repository adds sharing for AWS Organizations
+06:27 PM &amp;#8226; AWS AWS Lambda AWS Organizations</description>
+    </item>
+    
+    <item>
+      <title>09 March, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/03/09/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/03/09/</guid>
+      <description>AWS Media Spotlight Labs and Workshops at NAB Show 2020
+09:55 PM &amp;#8226; AWS Media &amp;amp; Entertainment Media Services
+ Improving the Performance of Distributed Atlassian Applications with Amazon CloudFront
+07:38 PM &amp;#8226; AWS Amazon CloudFront AWS Partner Network
+ Configuring SSL encryption on Oracle and PostgreSQL endpoints in AWS DMS
+06:59 PM &amp;#8226; AWS AWS Database Migration Service AWS DMS
+ Enable large-scale database migrations with AWS DMS and AWS Snowball</description>
+    </item>
+    
+    <item>
+      <title>06 March, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/03/06/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/03/06/</guid>
+      <description>Querying data without servers or databases using Amazon S3 Select
+06:47 PM &amp;#8226; AWS Amazon API Gateway Amazon Simple Storage Services (S3)
+ Use the Dashboard API to build your own monitoring dashboard
+05:00 PM &amp;#8226; GCP Management Tools
+ Create deployment pipelines for your GKE workloads in a few clicks
+05:00 PM &amp;#8226; GCP Containers &amp;amp; Kubernetes DevOps &amp;amp; SRE
+ Architecting multi-region database disaster recovery for MySQL</description>
+    </item>
+    
+    <item>
+      <title>05 March, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/03/05/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/03/05/</guid>
+      <description>Enabling Customer Attribution Models on AWS with Automated Data Integration
+11:00 PM &amp;#8226; AWS Amazon Redshift AWS Marketplace
+ Using IAM authentication to connect with pgAdmin Amazon Aurora PostgreSQL or Amazon RDS for PostgreSQL
+10:59 PM &amp;#8226; AWS Amazon Aurora AWS Identity and Access Management (IAM)
+ Using EKS encryption provider support for defense-in-depth
+09:28 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS Fargate
+ Host Your Apps with AWS Amplify Console from the AWS Amplify CLI</description>
+    </item>
+    
+    <item>
+      <title>04 March, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/03/04/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/03/04/</guid>
+      <description>Introducing the Oracle Cloud Infrastructure Foundations Certification
+10:54 PM &amp;#8226; Oracle
+ How Bristol-Myers Squibb uses AWS Storage Gateway and Amazon S3 to manage scientific data
+08:40 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS Storage Gateway
+ FedRAMP Federation with Oracle Cloud Infrastructure and Oracle Access Manager
+08:40 PM &amp;#8226; Oracle Access Management Identity, Access Management and Security
+ Expanding our footprint to support global customers in 2020</description>
+    </item>
+    
+    <item>
+      <title>03 March, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/03/03/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/03/03/</guid>
+      <description>More on Semantic/RDF Properties.
+10:55 PM &amp;#8226; Oracle A-Team Chronicles Database
+ How Sisense Simplifies Complex Data Analytics for Analysts and Developers
+08:35 PM &amp;#8226; AWS Amazon Redshift Analytics
+ AWS Single Sign-On Integration Guide for Dynatrace
+07:57 PM &amp;#8226; AWS AWS Partner Network AWS Single Sign-On (SSO)
+ Running KVM and VMware VMs in Container Engine for Kubernetes
+07:02 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ Migrate Database backup from AWS s3 to OCI Object storage using rclone and restore it with help &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>02 March, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/03/02/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/03/02/</guid>
+      <description>Transforming Next ‘20 into Google Cloud Next ‘20: Digital Connect on April 6-8, 2020
+10:15 PM &amp;#8226; GCP G Suite Events
+ How to Ingest VCN Flow Logs into Splunk
+08:46 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ Using Amazon FSx for Windows File Server as persistent storage on Windows Containers
+07:18 PM &amp;#8226; AWS Amazon EC2 Container Service Amazon Elastic Container Service
+ Migrating Oracle databases with near-zero downtime using AWS DMS</description>
+    </item>
+    
+    <item>
+      <title>29 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/29/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/29/</guid>
+      <description> Identifying and resolving security code vulnerabilities using Snyk in AWS CI/CD Pipeline
+01:44 AM &amp;#8226; AWS Amazon EC2 Container Service Amazon Elastic Container Service  </description>
+    </item>
+    
+    <item>
+      <title>28 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/28/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/28/</guid>
+      <description>Improving Oracle backup and recovery performance with Amazon EBS multi-volume crash-consistent snapshots
+11:14 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Amazon EBS
+ Best Practices for Compartments
+11:12 PM &amp;#8226; Oracle Customer Stories Solutions
+ New-Look AWS Competency Validation Checklists for APN Technology Partners
+11:06 PM &amp;#8226; AWS AWS Partner Network Enterprise Strategy
+ Manual fail-over is the past
+09:08 PM &amp;#8226; Oracle Architecture Cloud
+ How to bring Azure AD users and groups into IDCS</description>
+    </item>
+    
+    <item>
+      <title>27 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/27/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/27/</guid>
+      <description>AWS at the 2020 NAB Show
+11:03 PM &amp;#8226; AWS Amazon Machine Learning Artificial Intelligence
+ AWS S3 to OCI access best practices
+11:00 PM &amp;#8226; Oracle
+ Configuring and using monitoring and notifications in Amazon Lightsail
+10:25 PM &amp;#8226; AWS Amazon Lightsail Compute
+ Google named a Leader in the Gartner 2020 Magic Quadrant for Cloud AI Developer Services
+10:00 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
+ Get to know the latest AWS Heroes, including the first IoT Heroes!</description>
+    </item>
+    
+    <item>
+      <title>26 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/26/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/26/</guid>
+      <description>Announcing the Oracle Cloud Infrastructure Architecture Center 
+11:18 PM &amp;#8226; Oracle Solutions
+ Access Logging Made Easy with AWS App Mesh and Fluent Bit
+10:27 PM &amp;#8226; AWS Amazon CloudWatch Amazon EC2 Container Registry
+ Windows home directories made easy with Amazon FSx
+09:14 PM &amp;#8226; AWS Amazon FSx for Windows Storage
+ Now available in Amazon Transcribe: Automatic Redaction of Personally Identifiable Information
+08:45 PM &amp;#8226; AWS Amazon Transcribe Artificial Intelligence</description>
+    </item>
+    
+    <item>
+      <title>25 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/25/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/25/</guid>
+      <description>Getting Up to Speed on Using Private Endpoints for Autonomous Database with Shared Exadata &amp;hellip;
+10:36 PM &amp;#8226; Oracle Product News
+ Tangent Animation Embraces Virtual Workstations on AWS
+09:57 PM &amp;#8226; AWS AWS Partner Network Case Study
+ Integrate Power BI with Amazon Redshift for insights and analytics
+09:34 PM &amp;#8226; AWS Amazon Redshift Analytics
+ The role of AWS Fargate in the container world
+09:07 PM &amp;#8226; AWS Amazon EC2 Container Service Amazon Elastic Container Service</description>
+    </item>
+    
+    <item>
+      <title>24 February, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/02/24/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/02/24/</guid>
+      <description>API Gateway as an Ingress Controller for Amazon EKS
+11:44 PM &amp;#8226; AWS Amazon API Gateway Amazon Elastic Kubernetes Service
+ Nurturing HPC Startups Through the Oracle Startup Program: Oracle Cloud Infrastructure and Syncious 
+11:44 PM &amp;#8226; Oracle Partners
+ Double Down With New 8K Course During the 4K 4Charity Fun Run at the NAB Show
+11:34 PM &amp;#8226; AWS Media &amp;amp; Entertainment Media Services
+ AWS has launched the Activate Founders package for Startups 🚀</description>
+    </item>
     
     <item>
       <title>21 February, 2020</title>
@@ -17,13 +262,13 @@
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>http://staging.cloudchangelog.com/posts/2020/02/21/</guid>
-      <description>Online Tech Talk February 26: Accelerate data analytics with AWS file storage
+      <description>ISV Architecture Validation - Implementation Details - Part 3B - OCI vRouter Instances
+11:57 PM &amp;#8226; Oracle Networking
+ Online Tech Talk February 26: Accelerate data analytics with AWS file storage
 09:33 PM &amp;#8226; AWS Amazon Elastic File System (EFS) Storage
  Streaming ETL with Apache Flink and Amazon Kinesis Data Analytics
 08:16 PM &amp;#8226; AWS Amazon Kinesis Analytics
- Your ML workloads cheaper and faster with the latest GPUs
-05:00 PM &amp;#8226; GCP Compute AI &amp;amp; Machine Learning
- App Mesh Integration with AWS ALB Ingress Controller</description>
+ Your ML workloads cheaper and faster with the latest GPUs</description>
     </item>
     
     <item>
@@ -67,10 +312,9 @@
 11:30 PM &amp;#8226; AWS Amazon MQ AWS Lambda
  Winners of AWS Machine Learning Research Awards announced
 07:37 PM &amp;#8226; AWS Amazon Machine Learning Artificial Intelligence
- Restore Amazon DynamoDB backups to different AWS Regions and with custom table settings
-05:09 PM &amp;#8226; AWS Amazon DynamoDB Backups
- Introducing the Cloud Monitoring dashboards API
-05:00 PM &amp;#8226; GCP Management Tools</description>
+ End-to-End Monitoring of applications running on Oracle Cloud Infrastructure Part 2
+06:42 PM &amp;#8226; Oracle Diagnostics and Troubleshooting Operations
+ Restore Amazon DynamoDB backups to different AWS Regions and with custom table settings</description>
     </item>
     
     <item>
@@ -122,11 +366,11 @@
       <guid>http://staging.cloudchangelog.com/posts/2020/02/13/</guid>
       <description>Ironclad Security Provided by Oracle Cloud Infrastructure File Storage
 10:57 PM &amp;#8226; Oracle
+ Part 1: About Desktop SSO using Azure AD, IDCS, and the App Gateway
+08:34 PM &amp;#8226; Oracle IaaS
  Say Hello to 34 New AWS Competency, MSP, and Service Delivery Partners Added in January
 08:27 PM &amp;#8226; AWS AWS Partner Network Enterprise Strategy
- How to Send CloudHSM Audit Logs to Splunk and Monitor Critical Events on the HSM
-08:19 PM &amp;#8226; AWS Amazon CloudWatch AWS CloudHSM
- How Udacity students succeed with Google Cloud</description>
+ How to Send CloudHSM Audit Logs to Splunk and Monitor Critical Events on the HSM</description>
     </item>
     
     <item>
@@ -170,9 +414,10 @@
 11:56 PM &amp;#8226; Oracle
  Create a CI/CD pipeline for Amazon ECS with GitHub Actions and AWS CodeBuild Tests
 11:11 PM &amp;#8226; AWS Amazon Elastic Container Service AWS Cloud Development Kit
+ Istio - End User Authentication
+10:57 PM &amp;#8226; Oracle A-Team Chronicles Cloud Native
  Enabling AWS Single Sign-On (SSO) Service Integration with Databricks Control Plane
-09:26 PM &amp;#8226; AWS AWS Marketplace AWS Organizations
- Online Tech Talk February 18: Create an enterprise backup and restore plan with AWS</description>
+09:26 PM &amp;#8226; AWS AWS Marketplace AWS Organizations</description>
     </item>
     
     <item>
@@ -183,11 +428,12 @@
       <guid>http://staging.cloudchangelog.com/posts/2020/02/07/</guid>
       <description>Customizing triggers for AWS CodePipeline with AWS Lambda and Amazon CloudWatch Events
 10:46 PM &amp;#8226; AWS Amazon CloudWatch AWS CodePipeline
+ Paginate Records using an Advanced Postman Collection
+10:05 PM &amp;#8226; Oracle IaaS
  Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations
 08:39 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
  Building Windows containers with AWS CodePipeline and custom actions
-08:07 PM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline
- Last month today: January at Google Cloud</description>
+08:07 PM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline</description>
     </item>
     
     <item>
