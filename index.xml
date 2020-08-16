@@ -6,10 +6,565 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://staging.cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/14/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/14/</guid>
+      <description>How Citibot’s chatbot search engine uses AI to find more answers
+11:45 PM &amp;#8226; AWS Amazon Kendra Amazon Lex
+ Looker news and highlights from Google Cloud Next &amp;lsquo;20: OnAir, Week 5
+11:00 PM &amp;#8226; GCP Data Analytics
+ Automating Amazon EBS snapshots management using Data Lifecycle Manager
+09:03 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Storage
+ AWS Online Tech Talks for August 2020
+08:21 PM &amp;#8226; AWS Best Practices Events</description>
+    </item>
+    
+    <item>
+      <title>13 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/13/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/13/</guid>
+      <description>Say Hello to 87 New AWS Competency, Service Delivery, Service Ready, and MSP Partners Added in July
+11:54 PM &amp;#8226; AWS Announcements AWS Partner Network
+ Amazon EC2 Inf1 instances featuring AWS Inferentia chips now available in five new Regions and with improved performance
+09:32 PM &amp;#8226; AWS Amazon EC2 Artificial Intelligence
+ Connecting AWS Outposts to on-premises data sources
+09:25 PM &amp;#8226; AWS Amazon EMR Amazon VPC
+ Amazon Braket – Go Hands-On with Quantum Computing</description>
+    </item>
+    
+    <item>
+      <title>12 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/12/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/12/</guid>
+      <description>Improving AWS Cloud Applications with New AWS Well-Architected Best Practices
+11:11 PM &amp;#8226; AWS Announcements AWS Partner Network
+ Amazon Textract now available in Asia Pacific (Mumbai) and EU (Frankfurt) Regions 
+10:49 PM &amp;#8226; AWS Amazon Textract Artificial Intelligence
+ New – High-Performance HDD Storage for Amazon FSx for Lustre File Systems
+09:45 PM &amp;#8226; AWS Amazon FSx for Lustre Storage
+ Migrating AWS Lambda functions to Amazon Linux 2</description>
+    </item>
+    
+    <item>
+      <title>11 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/11/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/11/</guid>
+      <description>Increasing the relevance of your Amazon Personalize recommendations by leveraging contextual information
+11:55 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
+ Getting hands-on: Start building on Google Cloud for free
+11:05 PM &amp;#8226; GCP
+ Amazon Forecast can now use Convolutional Neural Networks (CNNs) to train forecasting models up to 2X faster with up to 30% higher accuracy
+09:04 PM &amp;#8226; AWS Amazon Forecast Artificial Intelligence
+ Transferring Amazon S3 data from AWS Regions to AWS Regions in China</description>
+    </item>
+    
+    <item>
+      <title>10 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/10/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/10/</guid>
+      <description>Partitioning Pooled Multi-Tenant SaaS Data with Amazon DynamoDB
+11:54 PM &amp;#8226; AWS Amazon DynamoDB AWS Partner Network
+ Managing Multi-Tenancy in Digital Banking with AWS Control Tower
+11:47 PM &amp;#8226; AWS AWS Control Tower AWS Partner Network
+ Saving money a pod at a time with EKS, Fargate, and AWS Compute Savings Plans
+10:49 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS Fargate
+ AWS Glue version 2.0 featuring 10x faster job start times and 1-minute minimum billing duration</description>
+    </item>
+    
+    <item>
+      <title>07 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/07/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/07/</guid>
+      <description>Cross-account bulk transfer of files using Amazon S3 Batch Operations
+10:17 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) Storage
+ Building a Pulse Oximetry tracker using AWS Amplify and AWS serverless
+09:36 PM &amp;#8226; AWS Amazon API Gateway Amazon Cognito
+ Introducing the Google Cloud Security Showcase
+05:00 PM &amp;#8226; GCP Identity &amp;amp; Security
+ Building scalable web applications with Firestore — new reference guide
+04:00 PM &amp;#8226; GCP Databases</description>
+    </item>
+    
+    <item>
+      <title>06 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/06/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/06/</guid>
+      <description>Connecting an Oracle Analytics Cloud RPD to Dedicated Private Autonomous Databases
+10:09 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
+ Build more effective conversations on Amazon Lex with confidence scores and increased accuracy
+09:29 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence
+ Enabling Single Sign-On Between OneLogin and AWS
+09:04 PM &amp;#8226; AWS AWS Partner Network AWS Single Sign-On (SSO)
+ TensorFlow Serving on Kubernetes with Amazon EC2 Spot Instances</description>
+    </item>
+    
+    <item>
+      <title>05 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/05/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/05/</guid>
+      <description>Using Amazon Interactive Video Service Timed Metadata – Part 2
+09:44 PM &amp;#8226; AWS Amazon Interactive Video Service Media &amp;amp; Entertainment
+ Using Amazon Interactive Video Service Timed Metadata – Part 1
+09:33 PM &amp;#8226; AWS Amazon Interactive Video Service Media &amp;amp; Entertainment
+ How Qubole optimizes cost and performance by managing shuffle data
+08:51 PM &amp;#8226; AWS Amazon EC2 Amazon FSx for Lustre
+ Cognitive Document Processing and Data Extraction for the Oil and Gas Industry</description>
+    </item>
+    
+    <item>
+      <title>04 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/04/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/04/</guid>
+      <description>Safely deploying and monitoring Amazon SageMaker endpoints with AWS CodePipeline and AWS CodeDeploy
+11:06 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Deploying your own data processing code in an Amazon SageMaker Autopilot inference pipeline
+10:17 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Multi-GPU and distributed training using Horovod in Amazon SageMaker Pipe mode
+09:48 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Unbox and start streaming live video with AWS Elemental Link</description>
+    </item>
+    
+    <item>
+      <title>03 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/03/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/03/</guid>
+      <description>The transformation of live event streaming with AWS Elemental Link
+10:29 PM &amp;#8226; AWS AWS Elemental Link AWS Partner Network
+ Improving speech-to-text transcripts from Amazon Transcribe using custom vocabularies and Amazon Augmented AI
+09:13 PM &amp;#8226; AWS Amazon Augmented AI Amazon Transcribe
+ Helping Healthcare Agencies Without Data Science Skills Get More from Patient Data
+09:13 PM &amp;#8226; AWS AWS Partner Network Customer Solutions
+ Amazon EC2 instance port forwarding with AWS Systems Manager</description>
+    </item>
+    
+    <item>
+      <title>31 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/31/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/31/</guid>
+      <description>Hardening code reviews on GitHub Enterprise repositories with Amazon CodeGuru
+11:12 PM &amp;#8226; AWS Amazon CodeGuru GitHub Enterprise
+ This month in AWS Machine Learning: July 2020 edition
+10:45 PM &amp;#8226; AWS Artificial Intelligence
+ Enhancing recommendation filters by filtering on item metadata with Amazon Personalize
+10:08 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
+ Code-free machine learning: AutoML with AutoGluon, Amazon SageMaker, and AWS Lambda
+10:05 PM &amp;#8226; AWS Artificial Intelligence SageMaker</description>
+    </item>
+    
+    <item>
+      <title>30 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/30/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/30/</guid>
+      <description>Announcing the New AWS Community Builders Program!
+06:08 PM &amp;#8226; AWS Announcements News
+ Introducing AWS Amplify Video on Demand
+05:41 PM &amp;#8226; AWS Amazon CloudFront Announcements
+ Preventing lateral movement in Google Compute Engine
+04:00 PM &amp;#8226; GCP Compute Engine Identity &amp;amp; Security
+ Building well-architected serverless applications: Controlling serverless API access – part 2
+01:44 PM &amp;#8226; AWS Amazon API Gateway Amazon Cognito
+ Embed multi-tenant analytics in applications with Amazon QuickSight</description>
+    </item>
+    
+    <item>
+      <title>29 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/29/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/29/</guid>
+      <description>New Relic drinks straight from the Firehose: Consuming Amazon Kinesis data
+10:09 PM &amp;#8226; AWS Amazon Kinesis Analytics
+ Analyze logs with Datadog using Amazon Kinesis Data Firehose HTTP endpoint delivery
+10:08 PM &amp;#8226; AWS Amazon Kinesis Analytics
+ Stream data to an HTTP endpoint with Amazon Kinesis Data Firehose
+10:08 PM &amp;#8226; AWS Amazon Kinesis Analytics
+ Building a serverless tokenization solution to mask sensitive data
+09:26 PM &amp;#8226; AWS Amazon API Gateway Amazon Cognito</description>
+    </item>
+    
+    <item>
+      <title>28 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/28/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/28/</guid>
+      <description>How KPMG Visualizes Cloud Billing Data with Amazon QuickSight
+11:24 PM &amp;#8226; AWS Amazon Athena Amazon QuickSight
+ Building a Graylog server to run on an Amazon Lightsail instance
+10:03 PM &amp;#8226; AWS Amazon Lightsail Compute
+ AWS CloudFormation support for AWS Service Catalog products
+09:39 PM &amp;#8226; AWS AWS CloudFormation AWS Service Catalog
+ Amazon RDS for SQL Server reduces prices on Enterprise Edition in the Multi-AZ configuration</description>
+    </item>
+    
+    <item>
+      <title>27 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/27/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/27/</guid>
+      <description>How to Rapidly Prototype Multimedia Applications on AWS with the Media Insights Engine
+11:34 PM &amp;#8226; AWS Media &amp;amp; Entertainment Media Services
+ How to Set Up a Resilient End-to-End Live Workflow Using AWS Elemental Products and Services: Part 4
+10:07 PM &amp;#8226; AWS AWS Elemental MediaConnect AWS Elemental MediaConvert
+ AWS DataSync adds support for on-premises object storage
+09:41 PM &amp;#8226; AWS AWS DataSync Migration and Transfer
+ New – Amazon EC2 Instances based on AWS Graviton2 with local NVMe-based SSD storage</description>
+    </item>
+    
+    <item>
+      <title>24 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/24/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/24/</guid>
+      <description>Enhancing your chatbot experience with web browsing
+09:22 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence
+ Processing PDF documents with a human loop using Amazon Textract and Amazon Augmented AI
+07:24 PM &amp;#8226; AWS Amazon Augmented AI Amazon Textract
+ Automating Amazon EKS cluster testing with custom machine images
+07:11 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS Cloud Development Kit
+ Building a CI/CD pipeline for cross-account deployment of an AWS Lambda API with the Serverless Framework</description>
+    </item>
+    
+    <item>
+      <title>23 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/23/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/23/</guid>
+      <description>Enhanced APN Solution Space Provides More Go-to-Market Benefits for AWS Competency Partners
+10:21 PM &amp;#8226; AWS Announcements AWS Partner Network
+ Service connectivity inside and outside the mesh using AWS App Mesh (ECS/Fargate)
+10:11 PM &amp;#8226; AWS Amazon Elastic Container Service AWS App Mesh
+ Why You Should Join the AWS Partner Network and AWS Competency Program: Insights from PGS Software
+10:09 PM &amp;#8226; AWS AWS Partner Network Best Practices</description>
+    </item>
+    
+    <item>
+      <title>22 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/22/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/22/</guid>
+      <description>Best practices for upgrading Amazon RDS for Oracle DB instances from 11.2.0.4 to 19c
+11:03 PM &amp;#8226; AWS Amazon RDS Best Practices
+ Auditing Amazon S3 encryption methods for object uploads in real time
+10:09 PM &amp;#8226; AWS Amazon CloudWatch Amazon EventBridge
+ Introducing the AWS Content Analysis Solution
+09:14 PM &amp;#8226; AWS Amazon Elastic Transcoder Amazon Rekognition
+ Extracting custom entities from documents with Amazon Textract and Amazon Comprehend</description>
+    </item>
+    
+    <item>
+      <title>21 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/21/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/21/</guid>
+      <description>Introducing The CIS Amazon EKS Benchmark
+11:01 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Containers
+ MyVictory.com launches motivational fitness streaming platform for cancer survivors with help from AWS
+10:43 PM &amp;#8226; AWS Amazon CloudFront AWS Elemental MediaConvert
+ Best Practices for Organizational Units with AWS Organizations
+10:42 PM &amp;#8226; AWS AWS Organizations Best Practices
+ The AWS Serverless Application Model CLI is now generally available
+08:25 PM &amp;#8226; AWS AWS Lambda AWS Serverless Application Model</description>
+    </item>
+    
+    <item>
+      <title>20 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/20/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/20/</guid>
+      <description>Using Okta with multi-factor authentication for AWS Transfer for SFTP
+09:54 PM &amp;#8226; AWS AWS CloudFormation AWS Transfer Family
+ Using AWS CodePipeline and AWS CodeStar Connections to deploy from Bitbucket
+09:15 PM &amp;#8226; AWS AWS CodePipeline Developer Tools
+ Query drug adverse effects and recalls based on natural language using Amazon Comprehend Medical
+07:00 PM &amp;#8226; AWS Amazon Comprehend Amazon Comprehend Medical
+ Enable fine-grained data access in Zeppelin Notebook with AWS Lake Formation</description>
+    </item>
+    
+    <item>
+      <title>19 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/19/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/19/</guid>
+      <description> How SF Medic Provides Real-Time Clinical Decision Support Using AWS Machine Learning Services
+05:23 PM &amp;#8226; AWS Amazon Comprehend Medical Amazon Machine Learning  </description>
+    </item>
+    
+    <item>
+      <title>17 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/17/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/17/</guid>
+      <description>Improving RAPIDS XGBoost performance and reducing costs with Amazon EMR running Amazon EC2 G4 instances
+11:51 PM &amp;#8226; AWS Amazon EMR Analytics
+ Google Cloud’s Commitment to EU International Data Transfers and the CJEU Ruling
+09:00 PM &amp;#8226; GCP Compliance Identity &amp;amp; Security
+ ICYMI: Serverless Q2 2020
+06:59 PM &amp;#8226; AWS Amazon API Gateway Amazon Elastic File System (EFS)
+ Building a scalable outbound call engine using Amazon Connect and Amazon Lex</description>
+    </item>
+    
+    <item>
+      <title>16 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/16/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/16/</guid>
+      <description>One way to migrate data from Azure Blob Storage to Amazon S3
+11:11 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS Elastic Beanstalk
+ Now Open – Fourth Availability Zone in the AWS Asia Pacific (Seoul) Region
+10:58 PM &amp;#8226; AWS Launch News
+ Setting Up for Streaming with Amazon Interactive Video Service
+09:40 PM &amp;#8226; AWS Amazon Interactive Video Service Media &amp;amp; Entertainment
+ Protecting pre- and early-release content with NAGRA NexGuard forensic watermarking</description>
+    </item>
+    
+    <item>
+      <title>15 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/15/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/15/</guid>
+      <description>Must-know best practices for Amazon EBS encryption
+09:37 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Best Practices
+ Amazon Interactive Video Service – Add Live Video to Your Apps and Websites
+08:33 PM &amp;#8226; AWS Media Services
+ EBGP On-Premise to OCI fast failover detection
+07:54 PM &amp;#8226; Oracle A-Team Chronicles Networking
+ Best practices from Delhivery on migrating from Apache Kafka to Amazon MSK
+06:46 PM &amp;#8226; AWS Amazon Kinesis Amazon Managed Streaming for Apache Kafka (Amazon MSK)</description>
+    </item>
+    
+    <item>
+      <title>14 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/14/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/14/</guid>
+      <description>Automating cache refresh process for File Gateway on AWS Storage Gateway
+10:41 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS Storage Gateway
+ How to enable X11 forwarding from Red Hat Enterprise Linux (RHEL), Amazon Linux, SUSE Linux, Ubuntu server to support GUI-based installations from Amazon EC2
+08:00 PM &amp;#8226; AWS Amazon EC2 Compute
+ Control data access and permissions with AWS Lake Formation and Amazon EMR
+07:59 PM &amp;#8226; AWS Amazon EMR Analytics</description>
+    </item>
+    
+    <item>
+      <title>13 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/13/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/13/</guid>
+      <description>Zerobase creates private, secure, and automated contact tracing using Amazon Neptune
+11:37 PM &amp;#8226; AWS Amazon Neptune Contact tracing
+ Introducing Ingress support in AWS App Mesh
+09:46 PM &amp;#8226; AWS AWS App Mesh Amazon ECS
+ Building an electronic security lock using serverless
+08:25 PM &amp;#8226; AWS Amazon API Gateway Amazon Pinpoint
+ How to setup SSSD on OID12c or OUD12c in OCI
+07:16 PM &amp;#8226; Oracle Compute Directory Services</description>
+    </item>
+    
+    <item>
+      <title>10 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/10/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/10/</guid>
+      <description>AWS Storage Gateway provides simplified monitoring for File Gateway
+09:34 PM &amp;#8226; AWS Amazon CloudWatch AWS Management Console
+ Knowledge Graph Modeling: Informal Taxonomy micro-pattern using gist
+08:45 PM &amp;#8226; Oracle A-Team Chronicles Data Management
+ How to Proactively Monitor Amazon RDS Performance with Datadog
+07:56 PM &amp;#8226; AWS Amazon RDS Analytics
+ AutoML Tables: end-to-end workflows on AI Platform Pipelines
+05:00 PM &amp;#8226; GCP AutoML AI &amp;amp; Machine Learning</description>
+    </item>
+    
+    <item>
+      <title>09 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/09/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/09/</guid>
+      <description>Integrating Amazon EventBridge and Amazon ECS
+09:43 PM &amp;#8226; AWS Amazon Elastic Container Service Amazon EventBridge
+ Monitoring AWS Media Services using Amazon CloudWatch Events
+09:28 PM &amp;#8226; AWS Amazon CloudWatch Amazon DynamoDB
+ Services and tools for monitoring video workflows on AWS
+09:27 PM &amp;#8226; AWS Amazon CloudWatch Amazon Elastic Container Service
+ Detecting and analyzing incorrect model predictions with Amazon SageMaker Model Monitor and Debugger
+09:25 PM &amp;#8226; AWS Artificial Intelligence SageMaker</description>
+    </item>
+    
+    <item>
+      <title>08 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/08/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/08/</guid>
+      <description>Well-Architected approach to CloudEndure Disaster Recovery
+10:54 PM &amp;#8226; AWS CloudEndure Disaster Recovery Storage
+ Executing Ansible playbooks in your Amazon EC2 Image Builder pipeline
+10:00 PM &amp;#8226; AWS Amazon EC2 EC2 Image Builder
+ Giving your content a voice with the Newscaster speaking style from Amazon Polly
+08:29 PM &amp;#8226; AWS Amazon Polly Artificial Intelligence
+ Using WebSockets and Load Balancers Part two
+07:20 PM &amp;#8226; AWS Amazon Lightsail Compute</description>
+    </item>
+    
+    <item>
+      <title>07 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/07/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/07/</guid>
+      <description>How to capture application logs when using Amazon EKS on AWS Fargate
+10:14 PM &amp;#8226; AWS Containers EKS
+ Set up soft multi-tenancy with Kiosk on Amazon Elastic Kubernetes Service
+04:47 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Containers
+ Calling SOAP Services from Visual Builder
+04:41 PM &amp;#8226; Oracle BI/Reporting SaaS Extension &amp;amp;amp; Customization
+ Options for Extending Layer 2 On-Premises Networks to VMware Cloud on AWS
+04:40 PM &amp;#8226; AWS AWS Direct Connect AWS Partner Network</description>
+    </item>
+    
+    <item>
+      <title>06 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/06/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/06/</guid>
+      <description>Registration Open: Security for Content &amp;amp; Media Workflows + AWS Partner Workflow Demos
+09:34 PM &amp;#8226; AWS AWS Partner Network Events
+ New – Create Amazon RDS DB Instances on AWS Outposts
+07:49 PM &amp;#8226; AWS Amazon RDS AWS Outposts
+ Restrict Amazon Redshift Spectrum external table access to Amazon Redshift IAM users and groups using role chaining
+07:02 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Understanding autovacuum in Amazon RDS for PostgreSQL environments</description>
+    </item>
+    
+    <item>
+      <title>03 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/03/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/03/</guid>
+      <description> Optimize Application Settings Persistence on Amazon AppStream 2.0
+08:54 PM &amp;#8226; AWS Amazon AppStream 2.0 Amazon FSx for Windows  </description>
+    </item>
+    
+    <item>
+      <title>02 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/02/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/02/</guid>
+      <description>Using high-performance storage for machine learning workloads on Kubernetes
+09:53 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Amazon FSx for Lustre
+ How TIBCO Leverages AWS for its COVID-19 Analytics App
+08:20 PM &amp;#8226; AWS Analytics AWS Partner Network
+ Plan your migration to Azure VMware solution using Azure Migrate
+08:00 AM &amp;#8226; Azure Migration
+ Why AWS Certification Consent is Important for Individuals and APN Partners
+12:59 AM &amp;#8226; AWS AWS Partner Network AWS Training and Certification</description>
+    </item>
+    
+    <item>
+      <title>01 July, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/07/01/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/07/01/</guid>
+      <description>Building and querying the AWS COVID-19 knowledge graph
+11:21 PM &amp;#8226; AWS Amazon Comprehend Medical Amazon Neptune
+ Invoke REST Endpoint With Plain Text Payload
+08:58 PM &amp;#8226; Oracle Integration Cloud REST
+ Knowledge Graph Modeling: Governance &amp;amp; Project Scope
+08:30 PM &amp;#8226; Oracle A-Team Chronicles Database
+ Knowledge Graph Modeling: Introduction to gist (and buckets)
+08:30 PM &amp;#8226; Oracle A-Team Chronicles Data Management
+ Knowledge Graph Modeling: Product Category micro-pattern using gist</description>
+    </item>
+    
+    <item>
+      <title>30 June, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/06/30/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/06/30/</guid>
+      <description>AWS App2Container – A New Containerizing Tool for Java and .NET Applications
+11:57 PM &amp;#8226; AWS .NET Amazon Elastic Container Service
+ New digital training available for AWS Elemental Live and AWS Elemental Conductor
+10:09 PM &amp;#8226; AWS AWS Training and Certification Media Services
+ Improving application availability with Amazon RDS Proxy
+09:52 PM &amp;#8226; AWS Amazon RDS Amazon RDS Proxy
+ Amazon RDS Proxy – Now Generally Available</description>
+    </item>
+    
+    <item>
+      <title>29 June, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/06/29/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/06/29/</guid>
+      <description>Find Your Most Expensive Lines of Code – Amazon CodeGuru Is Now Generally Available
+09:38 PM &amp;#8226; AWS Amazon CodeGuru Announcements
+ Get started with digital content creation on AWS
+08:11 PM &amp;#8226; AWS Amazon EC2 AWS Management Console
+ How Wind Mobility built a serverless data architecture
+07:17 PM &amp;#8226; AWS Amazon Athena Amazon Kinesis
+ How Euler Hermes detects typo squatting with Amazon SageMaker
+05:22 PM &amp;#8226; AWS Artificial Intelligence SageMaker</description>
+    </item>
+    
+    <item>
+      <title>27 June, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/06/27/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/06/27/</guid>
+      <description> OIC DMN VBCS decision tree
+06:04 AM &amp;#8226; Oracle Process Cloud Service Visual Builder  </description>
+    </item>
     
     <item>
       <title>26 June, 2020</title>
