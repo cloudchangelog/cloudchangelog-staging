@@ -6,10 +6,201 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://staging.cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/29/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/29/</guid>
+      <description> Migrating Subversion repositories to AWS CodeCommit
+12:40 AM &amp;#8226; AWS DevOps AWS CodeCommit
+ Modernizing and containerizing a legacy MVC .NET application with Entity Framework to .NET Core with Entity Framework Core: Part 2
+12:31 AM &amp;#8226; AWS AWS .NET Development .NET Core
+ Migrating ETL Operations from SSIS Packages to AWS Lambda Functions
+12:08 AM &amp;#8226; AWS AWS Lambda AWS Partner Network
+  </description>
+    </item>
+    
+    <item>
+      <title>28 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/28/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/28/</guid>
+      <description>Onboarding and Managing Agents in a SaaS Solution
+11:44 PM &amp;#8226; AWS AWS Partner Network Best Practices
+ Migrating workloads across AWS Regions with CloudEndure Migration
+08:53 PM &amp;#8226; AWS Amazon EC2 CloudEndure Migration
+ Top 10 performance tuning techniques for Amazon Redshift
+07:55 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Announcing the express testing capability in Amazon Lex
+07:08 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence
+ OCI Artifact Support In Amazon ECR</description>
+    </item>
+    
+    <item>
+      <title>27 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/27/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/27/</guid>
+      <description>Announcing a second Local Zone in Los Angeles
+11:20 PM &amp;#8226; AWS Launch News
+ Comparison of data prep and cleansing for NLP with pandas, dask and spark
+10:51 PM &amp;#8226; Oracle Data Management Developer Tools
+ Learn from the first place winner of the first AWS DeepComposer Chartbusters Bach to the Future Challenge
+10:20 PM &amp;#8226; AWS
+ Transferring file data across AWS Regions and accounts using AWS DataSync</description>
+    </item>
+    
+    <item>
+      <title>26 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/26/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/26/</guid>
+      <description>Connecting Oracle Analytics Cloud to Essbase 19c using a Load Balancer
+11:23 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
+ Monitor your AWS DataSync migrations using Amazon CloudWatch
+09:53 PM &amp;#8226; AWS Amazon CloudWatch Amazon Simple Notification Service (SNS)
+ Case Study: Hive VFX Cuts Upfront Studio Costs, Operates as Cloud VFX Studio on AWS
+09:01 PM &amp;#8226; AWS Customer Solutions Media Services
+ Configure and optimize performance of Amazon Athena federation with Amazon Redshift</description>
+    </item>
+    
+    <item>
+      <title>25 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/25/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/25/</guid>
+      <description>Accessing SMB file shares remotely with Amazon FSx for Windows File Server
+10:06 PM &amp;#8226; AWS Amazon FSx for Windows Amazon VPC
+ Benefitting from SPARQL 1.1 Federated Queries with Amazon Neptune
+07:01 PM &amp;#8226; AWS Amazon Neptune Database
+ Building storage-first serverless applications with HTTP APIs service integrations
+06:48 PM &amp;#8226; AWS Amazon API Gateway Amazon EventBridge
+ Load Ballancer Performance
+01:32 PM &amp;#8226; Oracle Networking
+ Google Cloud Application Modernization Program: Get to the future faster</description>
+    </item>
+    
+    <item>
+      <title>24 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/24/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/24/</guid>
+      <description>New EBS Volume Type (io2) – 100x Higher Durability and 10x More IOPS/GiB
+11:20 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Launch
+ Advancing telehealth with Amwell
+09:30 PM &amp;#8226; GCP Partners Healthcare &amp;amp; Life Sciences
+ How BriteCore Improved Security and Scalability by Migrating Insurance Workloads with AWS Landing Zone
+08:07 PM &amp;#8226; AWS AWS Partner Network AWS Service Catalog
+ Building a customized recommender system in Amazon SageMaker</description>
+    </item>
+    
+    <item>
+      <title>22 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/22/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/22/</guid>
+      <description> Create a JWT Token in Java for Oracle IDCS
+10:14 PM &amp;#8226; Oracle  </description>
+    </item>
+    
+    <item>
+      <title>21 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/21/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/21/</guid>
+      <description>Implementing SAML AuthN for Amazon EMR Using Okta and Column-Level AuthZ with AWS Lake Formation
+06:36 PM &amp;#8226; AWS Amazon EMR Analytics
+ How Epsagon Increased Performance on AWS Lambda by 65% and Reduced Cost by 4x
+06:26 PM &amp;#8226; AWS AWS Cost Management AWS Lambda
+ ICYMI: AWS Cloud Containers Conference
+04:00 PM &amp;#8226; AWS Amazon EC2 Container Registry Amazon Elastic Container Service
+ Dataflow Under the Hood: understanding Dataflow techniques</description>
+    </item>
+    
+    <item>
+      <title>20 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/20/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/20/</guid>
+      <description>Relevance tuning with Amazon Kendra
+11:35 PM &amp;#8226; AWS Amazon Kendra Artificial Intelligence
+ Using A/B testing to measure the efficacy of recommendations generated by Amazon Personalize
+10:07 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
+ Oracle – Azure Interconnect Use Cases
+09:24 PM &amp;#8226; Oracle Networking
+ Comparing your on-premises storage patterns with AWS Storage services
+09:20 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Amazon FSx for Windows</description>
+    </item>
+    
+    <item>
+      <title>19 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/19/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/19/</guid>
+      <description>Introducing Private Channels for Amazon Interactive Video Service
+11:20 PM &amp;#8226; AWS Amazon Interactive Video Service Media Services
+ Protecting backup archives with WORM and Tape Retention Lock
+09:52 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS Storage Gateway
+ Speed up data ingestion on Amazon Redshift with BryteFlow
+06:20 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Introducing the AWS Controllers for Kubernetes (ACK)
+06:11 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Containers</description>
+    </item>
+    
+    <item>
+      <title>18 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/18/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/18/</guid>
+      <description>Online Tech Talk August 26: Best practices for data protection on Amazon S3
+10:53 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) Storage
+ Quickly Build End-to-End Integrations to SaaS Partner Event Sources and AWS Services with Amazon EventBridge
+09:05 PM &amp;#8226; AWS Amazon EventBridge Application Integration
+ Stream, transform, and analyze XML data in real time with Amazon Kinesis, AWS Lambda, and Amazon Redshift
+08:36 PM &amp;#8226; AWS Amazon Kinesis Amazon Redshift</description>
+    </item>
+    
+    <item>
+      <title>17 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/17/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/17/</guid>
+      <description>Oracle SD-WAN Edge Deployment in OCI
+11:02 PM &amp;#8226; Oracle Networking
+ Amazon EKS on AWS Graviton2 generally available: considerations on multi-architecture apps
+07:07 PM &amp;#8226; AWS Amazon EC2 Amazon Elastic Kubernetes Service
+ Introducing launch template and custom AMI support in Amazon EKS Managed Node Groups
+06:33 PM &amp;#8226; AWS Containers EKS
+ Enhancing customer safety by leveraging the scalable, secure, and cost-optimized Toyota Connected Data Lake
+06:14 PM &amp;#8226; AWS Amazon Athena Amazon DynamoDB</description>
+    </item>
+    
+    <item>
+      <title>15 August, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/08/15/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/08/15/</guid>
+      <description> Scalable agile development practices based on AWS CodeCommit
+10:25 PM &amp;#8226; AWS AWS CodeCommit Best Practices  </description>
+    </item>
     
     <item>
       <title>14 August, 2020</title>
