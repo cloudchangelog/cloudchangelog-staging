@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://staging.cloudchangelog.com/posts/2020/09/12/</loc>
-    <lastmod>2020-09-12T02:01:55+00:00</lastmod>
+    <loc>http://staging.cloudchangelog.com/posts/2020/09/16/</loc>
+    <lastmod>2020-09-17T02:01:25+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://staging.cloudchangelog.com/</loc>
-    <lastmod>2020-09-12T02:01:55+00:00</lastmod>
+    <lastmod>2020-09-17T02:01:25+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://staging.cloudchangelog.com/posts/</loc>
+    <lastmod>2020-09-17T02:01:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staging.cloudchangelog.com/posts/2020/09/15/</loc>
+    <lastmod>2020-09-16T02:01:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staging.cloudchangelog.com/posts/2020/09/14/</loc>
+    <lastmod>2020-09-15T02:01:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staging.cloudchangelog.com/posts/2020/09/12/</loc>
     <lastmod>2020-09-12T02:01:55+00:00</lastmod>
   </url>
   
