@@ -6,10 +6,195 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://staging.cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/01/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/01/</guid>
+      <description>Enabling multi-factor authentication for an Amazon Redshift cluster using Okta as an identity provider
+04:46 PM &amp;#8226; AWS Amazon Redshift
+ Raw Logs and Metrics are generally available on Azure Content Delivery Network (CDN) from Microsoft CDN
+04:35 PM &amp;#8226; Azure
+ Learn how to manage and optimize your Azure costs with our guided learning modules
+04:00 PM &amp;#8226; Azure Azure Cost Management
+ Monitor Azure Arc enabled Kubernetes with Metric Alerts</description>
+    </item>
+    
+    <item>
+      <title>30 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/30/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/30/</guid>
+      <description>Reserved outbound bandwidth now available for AWS Elemental MediaConnect
+11:40 PM &amp;#8226; AWS
+ Amazon Timestream is now Generally Available
+11:35 PM &amp;#8226; AWS
+ Amazon S3 on Outposts is now generally available, expanding object storage to on-premises environments
+11:35 PM &amp;#8226; AWS
+ Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK
+11:26 PM &amp;#8226; AWS Artificial Intelligence SageMaker</description>
+    </item>
+    
+    <item>
+      <title>29 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/29/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/29/</guid>
+      <description>Amazon Textract supports customer S3 buckets
+10:42 PM &amp;#8226; AWS
+ Amazon EventBridge Schema Registry announces support for JSON Schema
+10:03 PM &amp;#8226; AWS
+ Connecting to Oracle Analytics Cloud Private Endpoint with VPN / FastConnect
+09:29 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
+ Japanese Sellers, Consulting Partners, and Data Providers Now Available in AWS Marketplace and AWS Data Exchange
+09:24 PM &amp;#8226; AWS
+ Animation Research Uses AWS to Virtualize Remote Sports Production</description>
+    </item>
+    
+    <item>
+      <title>28 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/28/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/28/</guid>
+      <description>Amazon RDS for SQL Server Now Supports High Availability in AWS US West (Northern California) Region
+09:50 PM &amp;#8226; AWS
+ Enabling Amazon QuickSight federation with Azure AD
+09:28 PM &amp;#8226; AWS Amazon QuickSight Analytics
+ Using a WAF with Oracle Analytics Cloud
+09:20 PM &amp;#8226; Oracle Analytics Cloud Security
+ AWS Inferentia is now available in 11 AWS Regions, with best-in-class performance for running object detection models at scale</description>
+    </item>
+    
+    <item>
+      <title>27 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/27/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/27/</guid>
+      <description> How BBVA USA delivered security and governance at scale using management tools
+11:50 PM &amp;#8226; AWS Amazon EventBridge Amazon GuardDuty  </description>
+    </item>
+    
+    <item>
+      <title>25 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/25/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/25/</guid>
+      <description>Active learning workflow for Amazon Comprehend custom classification models – Part 1.
+10:27 PM &amp;#8226; AWS Amazon Comprehend Artificial Intelligence
+ Explore SaaS Tenant Isolation Strategies in New SaaS Whitepaper
+09:41 PM &amp;#8226; AWS AWS Partner Network Best Practices
+ Now it&amp;rsquo;s even easier to connect JetBrains IDEs to Amazon RDS or Redshift Databases
+09:10 PM &amp;#8226; AWS
+ Amazon ElastiCache is now available in the AWS Local Zones in Los Angeles (LA)</description>
+    </item>
+    
+    <item>
+      <title>24 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/24/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/24/</guid>
+      <description>How Cookpad scaled its Amazon Redshift cluster while controlling costs with usage limits
+11:46 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Making ETL easier with AWS Glue Studio
+11:04 PM &amp;#8226; AWS Analytics AWS Glue
+ Design patterns to access cross-account secrets stored in AWS Secrets Manager
+11:01 PM &amp;#8226; AWS AWS Secrets Manager Security, Identity, &amp;amp; Compliance
+ Improved OCR and structured data extraction with Amazon Textract
+10:52 PM &amp;#8226; AWS Amazon Textract Artificial Intelligence</description>
+    </item>
+    
+    <item>
+      <title>23 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/23/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/23/</guid>
+      <description>Azure Blob storage point-in-time restore now generally available
+11:21 PM &amp;#8226; Azure Azure Storage
+ Gaining insights into winning football strategies using machine learning
+10:12 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Announcing AWS Glue Studio: Visual job authoring and advanced monitoring for AWS Glue
+10:05 PM &amp;#8226; AWS
+ AWS Backup supports application-consistent backups of Microsoft workloads on EC2
+09:37 PM &amp;#8226; AWS
+ AWS Lake Formation is now available in the Europe (Milan) region</description>
+    </item>
+    
+    <item>
+      <title>22 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/22/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/22/</guid>
+      <description>Amazon Lex now offers language support for US Spanish
+10:30 PM &amp;#8226; AWS
+ Update to Amazon S3 Path Deprecation Plan
+09:52 PM &amp;#8226; AWS *Post Types Amazon Simple Storage Services (S3)
+ Amazon EC2 C5a instances now available in South America (Sao Paulo) region
+09:26 PM &amp;#8226; AWS
+ Amazon Comprehend now supports Amazon Sagemaker GroundTruth training datasets for custom model training
+09:06 PM &amp;#8226; AWS
+ Now available AWS SSO credential profile support in the AWS Toolkit for JetBrains IDEs</description>
+    </item>
+    
+    <item>
+      <title>21 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/21/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/21/</guid>
+      <description>Announcing event logging and self-upgrade capabilities in SSM Agent, with new version 3.0
+09:54 PM &amp;#8226; AWS
+ AWS Single Sign-On adds account assignment APIs and AWS CloudFormation support to automate multi-account access management
+09:32 PM &amp;#8226; AWS
+ AWS CloudFormation now supports StackSets Resource Type in the CloudFormation Registry
+09:02 PM &amp;#8226; AWS
+ Bringing the power of embedded analytics to your apps and services with Amazon QuickSight</description>
+    </item>
+    
+    <item>
+      <title>18 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/18/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/18/</guid>
+      <description>AWS CodeCommit is now available in the EU (Milan) region
+10:10 PM &amp;#8226; AWS
+ Elasticsearch Audit Logs now available on Amazon Elasticsearch Service
+10:05 PM &amp;#8226; AWS
+ Amazon Kendra now supports custom tags for FAQs
+10:04 PM &amp;#8226; AWS
+ Amazon EKS is now available in the AWS US West (N. California) Region
+09:57 PM &amp;#8226; AWS
+ Amazon Pinpoint now supports up to 250 attributes per endpoint</description>
+    </item>
+    
+    <item>
+      <title>17 September, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/09/17/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/09/17/</guid>
+      <description>Virtual workstations on AWS: Discussing the next must-have studio essential A recap of a virtual panel, moderated by postPerspective
+11:31 PM &amp;#8226; AWS Thought Leadership Amazon S3
+ Amazon Comprehend now helps you mask personally identifiable information from text documents
+10:15 PM &amp;#8226; AWS
+ Detecting and redacting PII using Amazon Comprehend
+09:46 PM &amp;#8226; AWS Amazon Comprehend Artificial Intelligence
+ AWS and Docker extend collaboration to launch new features in Docker Desktop</description>
+    </item>
     
     <item>
       <title>16 September, 2020</title>
