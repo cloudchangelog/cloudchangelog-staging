@@ -6,10 +6,1406 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://staging.cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>15 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/15/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/15/</guid>
+      <description>The graphical user interface of Porting Assistant for .NET is now open source
+10:45 PM &amp;#8226; AWS
+ Developing enterprise application patterns with the AWS CDK
+09:46 PM &amp;#8226; AWS AWS Cloud Development Kit AWS CloudFormation
+ New Amazon Builders’ Library Article: Making retries safe with idempotent APIs
+08:53 PM &amp;#8226; AWS
+ Eventarc: A unified eventing experience in Google Cloud
+08:30 PM &amp;#8226; GCP Developers &amp;amp; Practitioners
+ Improve security by analyzing VPC flow logs with Amazon CloudWatch Contributor Insights</description>
+    </item>
+    
+    <item>
+      <title>14 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/14/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/14/</guid>
+      <description>Amazon Cognito Identity Pools enables using user attributes from identity providers for access control to simplify permissions management in AWS
+11:02 PM &amp;#8226; AWS
+ Amplify DataStore launches support for sorting and selectively syncing app data
+08:59 PM &amp;#8226; AWS
+ How the cloud saved Grabyo’s Christmas
+08:43 PM &amp;#8226; AWS Amazon Interactive Video Service Customer Solutions
+ New digital course: Configuring and Deploying VPCs with Multiple Subnets
+08:40 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>13 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/13/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/13/</guid>
+      <description>AWS Storage sessions at AWS re:Invent 2020-2021: Week 4
+11:29 PM &amp;#8226; AWS Announcements AWS re:Invent
+ Using machine learning to predict vessel time of arrival with Amazon SageMaker
+10:46 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ Resource leak detection in Amazon CodeGuru Reviewer
+10:44 PM &amp;#8226; AWS Amazon CodeGuru Artificial Intelligence
+ AWS Snow Family console further simplifies Snow data transfer and compute job creation and management</description>
+    </item>
+    
+    <item>
+      <title>12 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/12/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/12/</guid>
+      <description>Amazon RDS for PostgreSQL Supports New Minor Versions 12.5, 11.10, 10.15, 9.6.20, and 9.5.24
+10:52 PM &amp;#8226; AWS
+ Amazon SNS adds support for message archiving and analytics via Kinesis Data Firehose subscriptions
+10:21 PM &amp;#8226; AWS
+ AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks
+10:00 PM &amp;#8226; AWS
+ Amazon Lightsail now supports IPv6
+09:20 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>11 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/11/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/11/</guid>
+      <description>Re:Invent bonus content: new sessions happening this week
+11:22 PM &amp;#8226; AWS Announcements AWS re:Invent
+ Monitor your Amazon Elastic File System (Amazon EFS) storage usage with Amazon CloudWatch
+10:52 PM &amp;#8226; AWS
+ Amazon Aurora supports in-place upgrades from MySQL 5.6 to 5.7
+10:12 PM &amp;#8226; AWS
+ Amazon EC2 API now supports Internet Protocol Version 6 (IPv6)
+09:35 PM &amp;#8226; AWS
+ Account and VPC Considerations for VMware Cloud on AWS</description>
+    </item>
+    
+    <item>
+      <title>10 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/10/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/10/</guid>
+      <description> AWS OpsHub for AWS Snow Family is now available for Linux
+08:26 AM &amp;#8226; AWS  </description>
+    </item>
+    
+    <item>
+      <title>08 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/08/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/08/</guid>
+      <description>Amazon EMR now supports Apache Ranger for fine-grained data access control
+10:56 PM &amp;#8226; AWS
+ Introducing Amazon EMR integration with Apache Ranger
+08:22 PM &amp;#8226; AWS Amazon EMR AWS Big Data
+ Estimating scoring probabilities by preparing soccer matches data with AWS Glue DataBrew
+08:11 PM &amp;#8226; AWS AWS Big Data AWS Glue
+ Artificial intelligence and machine learning continues at AWS re:Invent
+07:26 PM &amp;#8226; AWS Amazon Rekognition Amazon SageMaker</description>
+    </item>
+    
+    <item>
+      <title>07 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/07/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/07/</guid>
+      <description>Amazon API Gateway now supports data mapping in HTTP APIs
+10:51 PM &amp;#8226; AWS
+ AWS Network Firewall is now available in the Asia Pacific (Sydney) Region
+10:16 PM &amp;#8226; AWS
+ New AWS Config console streamlines resource configuration and compliance management
+10:08 PM &amp;#8226; AWS
+ Introducing AWS Transfer Family support for Amazon Elastic File System
+08:26 PM &amp;#8226; AWS
+ AWS Partners Join theCUBE to Discuss Cloud Benefits for Businesses Across the World</description>
+    </item>
+    
+    <item>
+      <title>06 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/06/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/06/</guid>
+      <description>AWS Step Functions adds support for AWS Glue DataBrew jobs to prepare data in analytics and machine learning workflows
+09:20 PM &amp;#8226; AWS
+ Create ODA Custom Components for BIP Report Based on Component Re-use
+08:26 PM &amp;#8226; Oracle
+ Orchestrating an AWS Glue DataBrew job and Amazon Athena query with AWS Step Functions
+08:05 PM &amp;#8226; AWS Amazon Athena AWS Big Data
+ How to Tokenize and De-Identify Your Data in Amazon RDS with Baffle</description>
+    </item>
+    
+    <item>
+      <title>05 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/05/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/05/</guid>
+      <description>Amazon SQS announces tiered pricing
+11:29 PM &amp;#8226; AWS
+ How to Build and Deploy a Contact Tracing Solution with AWS IoT Core and SafeTrack Lite
+10:31 PM &amp;#8226; AWS AWS Partner Network Customer Solutions
+ Implementing sensor workflows using AWS Snowcone and AWS IoT Greengrass
+09:46 PM &amp;#8226; AWS Amazon Simple Notification Service (SNS) AWS Greengrass
+ Azure Automation is now available in UAE North
+09:29 PM &amp;#8226; Azure</description>
+    </item>
+    
+    <item>
+      <title>04 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/04/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/04/</guid>
+      <description>Amazon EC2 R5B Instances now certified for SAP workloads
+11:49 PM &amp;#8226; AWS
+ Implementing a custom labeling GUI with built-in processing logic with Amazon SageMaker Ground Truth
+11:40 PM &amp;#8226; AWS Amazon SageMaker Amazon SageMaker Ground Truth
+ Building a secure search application with access controls using Amazon Kendra
+11:20 PM &amp;#8226; AWS Amazon Kendra Artificial Intelligence
+ Building a real-time notification system with Amazon Kinesis Data Streams for Amazon DynamoDB and Amazon Kinesis Data Analytics for Apache Flink</description>
+    </item>
+    
+    <item>
+      <title>01 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/01/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/01/</guid>
+      <description> Public preview | Azure NetApp Files : Application Consistent Snapshot tool (AzAcSnap)
+05:00 PM &amp;#8226; Azure  </description>
+    </item>
+    
+    <item>
+      <title>31 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/31/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/31/</guid>
+      <description> Limit interactive session commands by groups of users using AWS Systems Manager
+10:07 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Systems Manager
+ AWS Control Tower console shows more detail about external AWS Config rules
+12:32 AM &amp;#8226; AWS
+  </description>
+    </item>
+    
+    <item>
+      <title>30 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/30/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/30/</guid>
+      <description>AWS Storage Gateway in 2020 – year in review
+10:34 PM &amp;#8226; AWS AWS Storage Gateway Migration &amp;amp; Transfer Services
+ Extracting buildings and roads from AWS Open Data using Amazon SageMaker
+10:32 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ AWS CodePipeline supports deployments with CloudFormation StackSets
+09:55 PM &amp;#8226; AWS
+ AWS IoT SiteWise Monitor now supports AWS CloudFormation
+09:06 PM &amp;#8226; AWS
+ Testing data quality at scale with PyDeequ</description>
+    </item>
+    
+    <item>
+      <title>29 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/29/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/29/</guid>
+      <description>The Most Viewed APN Blog Posts in 2020
+11:56 PM &amp;#8226; AWS Announcements AWS Partner Network
+ Amazon MSK adds support for Apache Kafka version 2.7.0
+09:26 PM &amp;#8226; AWS
+ Viewing permission issues with service-linked roles
+09:00 PM &amp;#8226; AWS Amazon CloudWatch AWS CloudTrail
+ Publish Oracle Management Agent logs from Amazon RDS for Oracle to Amazon CloudWatch Logs
+07:24 PM &amp;#8226; AWS
+ Amazon WorkDocs offers additional collaboration controls throughout its Android app</description>
+    </item>
+    
+    <item>
+      <title>28 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/28/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/28/</guid>
+      <description>Amazon AppStream 2.0 adds support for real-time audio-video
+11:47 PM &amp;#8226; AWS
+ Amazon QuickSight is now Available in Canada (Central) and South America (Sao Paulo) Regions
+10:15 PM &amp;#8226; AWS
+ AWS Service Catalog now supports TagOption Sharing
+09:56 PM &amp;#8226; AWS
+ Azure Automation is now available in Germany West Central
+07:01 PM &amp;#8226; Azure
+ Announcing new AWS Wavelength Zones in Denver and Seattle
+06:34 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>27 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/27/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/27/</guid>
+      <description>Analyzing Amazon Lex conversation log data with Grafana
+11:51 PM &amp;#8226; AWS Amazon CloudWatch Amazon Lex
+ Open sesame: Granting privileged access to EC2 instances with Session Manager
+10:48 PM &amp;#8226; AWS Amazon EC2 AWS Identity and Access Management (IAM)
+ Manage AWS Managed Microsoft AD resources with Session Manager port forwarding
+09:55 PM &amp;#8226; AWS AWS Systems Manager Management Tools
+ Monitoring Cisco CSR 1000v VPN tunnel and BGP status using Amazon CloudWatch</description>
+    </item>
+    
+    <item>
+      <title>25 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/25/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/25/</guid>
+      <description> What’s new with Google Cloud
+08:00 PM &amp;#8226; GCP Google Workspace Inside Google Cloud
+ Deploying CIS Level 1 hardened AMIs with Amazon EC2 Image Builder
+01:07 AM &amp;#8226; AWS Amazon EC2 Amazon Inspector
+  </description>
+    </item>
+    
+    <item>
+      <title>24 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/24/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/24/</guid>
+      <description>AWS Service Catalog now supports TagOption Sharing
+10:40 PM &amp;#8226; AWS
+ The CIO dilemma. Should you adopt a Cloud Native strategy?
+11:58 AM &amp;#8226; Oracle A-Team Chronicles Cloud
+ Amazon Neptune now supports the db.r5.24xlarge instance type
+03:45 AM &amp;#8226; AWS
+ Host resource groups now provides APIs along with the ability to add existing Dedicated Hosts to further simplify your BYOL experience
+01:04 AM &amp;#8226; AWS
+ Provisioned product referencing is now available in AWS Service Catalog</description>
+    </item>
+    
+    <item>
+      <title>23 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/23/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/23/</guid>
+      <description>Microsoft SQL Server point-in-time recovery is now generally available for Amazon RDS on VMware
+10:54 PM &amp;#8226; AWS
+ AWS Compute Optimizer Now Delivers Recommendations For AWS Lambda Functions
+10:25 PM &amp;#8226; AWS
+ New versions of MySQL and PostgreSQL now available on Amazon RDS for Outposts
+10:04 PM &amp;#8226; AWS
+ AWS CodePipeline now available in Asia Pacific (Hong Kong) region
+10:00 PM &amp;#8226; AWS
+ Introducing Monitoring Query Language, now GA in Cloud Monitoring</description>
+    </item>
+    
+    <item>
+      <title>22 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/22/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/22/</guid>
+      <description>Introducing FHIR Works on AWS
+11:51 PM &amp;#8226; AWS
+ Porting Assistant for .NET supports automated code translation
+11:47 PM &amp;#8226; AWS
+ FreeRTOS now supports over-the-air update (OTA) for multiple file types
+11:44 PM &amp;#8226; AWS
+ Amazon GameLift Updates Server SDK Supporting Unity 2020 and Unreal 4.25
+11:13 PM &amp;#8226; AWS
+ Amazon QuickSight enhances dashboard performance with Dynamic Querying and other dataset optimizations
+10:59 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>21 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/21/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/21/</guid>
+      <description>AWS Snow Family now supports the Amazon Linux 2 operating system
+11:13 PM &amp;#8226; AWS
+ AWS Pricing Calculator now supports Windows Server and SQL Server workload cost estimates
+11:06 PM &amp;#8226; AWS
+ Now launch Amazon SageMaker Studio Notebooks backed by Spark in Amazon EMR
+11:04 PM &amp;#8226; AWS
+ You now can use PartiQL with NoSQL Workbench to query, insert, update, and delete table data in Amazon DynamoDB</description>
+    </item>
+    
+    <item>
+      <title>19 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/19/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/19/</guid>
+      <description> The CIO dilemma. Should you adopt a Cloud Native strategy?
+10:00 AM &amp;#8226; Oracle A-Team Chronicles Cloud
+ Building and deploying an object detection computer vision application at the edge with AWS Panorama
+12:18 AM &amp;#8226; AWS Artificial Intelligence Panorama
+  </description>
+    </item>
+    
+    <item>
+      <title>18 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/18/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/18/</guid>
+      <description>Preparing Network Gateways for Private Oracle Analytics Cloud Data Sources
+11:48 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
+ Software providers on AWS Marketplace can now use the self-service management portal to update their Container products
+11:42 PM &amp;#8226; AWS
+ Amazon Machine Image copy limits increased to 100 images per destination Region
+11:26 PM &amp;#8226; AWS
+ Amazon SageMaker Autopilot adds Deep Learning Models
+11:07 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>17 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/17/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/17/</guid>
+      <description>Amazon Data Lifecycle Manager now automates copying EBS snapshots across accounts
+11:12 PM &amp;#8226; AWS
+ AWS Nitro Enclaves is now available in 6 additional regions
+11:05 PM &amp;#8226; AWS
+ Amazon FSx now supports on-premises access from additional IP address ranges
+10:51 PM &amp;#8226; AWS
+ AWS Well-Architected Guidance Engine now available in AWS Control Tower
+10:32 PM &amp;#8226; AWS
+ Introducing Amazon SageMaker ml.P4d instances for highest performance ML training in the cloud</description>
+    </item>
+    
+    <item>
+      <title>16 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/16/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/16/</guid>
+      <description>Identity Propagation - VBCS &amp;gt; IC &amp;gt; Fusion Apps
+09:01 PM &amp;#8226; Oracle Application Integration Architecture (AIA) Architecture
+ Training a reinforcement learning Agent with Unity and Amazon SageMaker RL
+08:05 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ Amazon FSx is now available in the AWS GovCloud (US) Regions
+07:09 PM &amp;#8226; AWS
+ Getting Started with Amazon Managed Service for Prometheus
+06:33 PM &amp;#8226; AWS Announcements Management Tools</description>
+    </item>
+    
+    <item>
+      <title>15 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/15/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/15/</guid>
+      <description>AWS DeepRacer League announces 2020 Championship Cup winner Po-Chun Hsu of Taiwan
+11:54 PM &amp;#8226; AWS Artificial Intelligence AWS DeepRacer
+ AWS SDK for JavaScript version 3 is now generally available
+11:38 PM &amp;#8226; AWS
+ AWS Lambda now supports self-managed Apache Kafka as an event source
+11:38 PM &amp;#8226; AWS
+ Announcing the first AWS Wavelength Zone in Tokyo, Japan
+11:37 PM &amp;#8226; AWS
+ AWS Lambda now makes it easier to build analytics for Amazon Kinesis and Amazon DynamoDB Streams</description>
+    </item>
+    
+    <item>
+      <title>14 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/14/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/14/</guid>
+      <description>Announcing Amazon Redshift federated querying to Amazon Aurora MySQL and Amazon RDS for MySQL
+11:28 PM &amp;#8226; AWS Amazon Aurora Amazon RDS
+ Building high-quality benchmark tests for Amazon Redshift using SQLWorkbench and psql
+11:06 PM &amp;#8226; AWS Amazon Redshift AWS Big Data
+ AWS Storage sessions at AWS re:Invent 2020: Week 3
+10:34 PM &amp;#8226; AWS Announcements AWS re:Invent
+ Achieving Global Observability in Multi-Account and Multi-Region AWS Environments Using Sumo Logic</description>
+    </item>
+    
+    <item>
+      <title>12 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/12/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/12/</guid>
+      <description> Deprecation of webview sign-in support announcement from Google
+01:41 AM &amp;#8226; Azure  </description>
+    </item>
+    
+    <item>
+      <title>11 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/11/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/11/</guid>
+      <description>Amazon EC2 announces Spot Blueprints, an infrastructure code template generator to get started with EC2 Spot Instances
+11:54 PM &amp;#8226; AWS
+ AWS Security Hub now supports bidirectional integration with ServiceNow ITSM
+11:50 PM &amp;#8226; AWS
+ Introducing Spot Blueprints, a template generator for frameworks like Kubernetes and Apache Spark
+11:50 PM &amp;#8226; AWS Amazon EMR Announcements
+ Introducing Amazon Aurora R6g instance types, powered by AWS Graviton2 processors, in preview</description>
+    </item>
+    
+    <item>
+      <title>10 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/10/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/10/</guid>
+      <description>Identifying training bottlenecks and system resource under-utilization with Amazon SageMaker Debugger
+11:57 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ Configure a split-horizon DNS zone on Oracle Cloud Infrastructure
+10:47 PM &amp;#8226; Oracle A-Team Chronicles Architecture
+ Amazon QuickSight now supports Amazon Elasticsearch Service, and adds new box plot and filled map visuals
+10:42 PM &amp;#8226; AWS
+ Using streaming ingestion with Amazon SageMaker Feature Store to make ML-backed decisions in near-real time</description>
+    </item>
+    
+    <item>
+      <title>09 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/09/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/09/</guid>
+      <description>Re:Invent 2020 Liveblog: Infrastructure Keynote
+11:29 PM &amp;#8226; AWS Announcements AWS re:Invent
+ Python Support for Amazon CodeGuru is available in Preview
+10:46 PM &amp;#8226; AWS
+ Using pipes to explore, discover and find data in Amazon ES with Piped Processing Language
+09:47 PM &amp;#8226; AWS Amazon Elasticsearch Service AWS Big Data
+ Azure portal to end support for Internet Explorer 11 on March 31, 2021
+09:36 PM &amp;#8226; Azure</description>
+    </item>
+    
+    <item>
+      <title>08 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/08/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/08/</guid>
+      <description>Cross region replication in Amazon ECR has landed
+11:46 PM &amp;#8226; AWS Amazon EC2 Container Registry AWS re:Invent
+ Amazon CodeGuru Profiler adds Memory Profiling and Heap Summary
+11:38 PM &amp;#8226; AWS
+ Amazon Braket now supports PennyLane
+11:38 PM &amp;#8226; AWS
+ Amazon Braket tensor network simulator supports 50-qubit quantum circuits
+11:38 PM &amp;#8226; AWS
+ Amazon ECR announces cross region replication of images
+11:38 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>07 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/07/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/07/</guid>
+      <description>Re:Invent Week 2: Suggested sessions for Media &amp;amp; Entertainment attendees
+11:21 PM &amp;#8226; AWS Announcements AWS re:Invent
+ In the Works – AWS Region in Melbourne, Australia
+11:05 PM &amp;#8226; AWS AWS re:Invent Launch
+ Amazon EBS io2 volumes now support SAP workloads
+11:00 PM &amp;#8226; AWS
+ Grafana query editor for Azure Data Explorer is in public preview
+10:20 PM &amp;#8226; Azure Azure Data Explorer Grafana
+ Public preview: Azure Data Explorer dashboards October update</description>
+    </item>
+    
+    <item>
+      <title>05 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/05/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/05/</guid>
+      <description>Raising code quality for Python applications using Amazon CodeGuru
+03:40 AM &amp;#8226; AWS Amazon CodeGuru Artificial Intelligence
+ Using a test framework to design better experiences with Amazon Lex
+02:07 AM &amp;#8226; AWS Amazon Lex Artificial Intelligence
+ Amazon RDS for Oracle supports managed disaster recovery (DR) with Amazon RDS Cross-Region Automated Backups
+12:38 AM &amp;#8226; AWS
+ Amazon Machine Images (AMIs) now support tag-on-create and tag-based access control</description>
+    </item>
+    
+    <item>
+      <title>04 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/04/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/04/</guid>
+      <description>Using AWS CodeBuild and Bridgecrew to Prevent Misconfigurations in AWS CloudFormation and Terraform
+11:14 PM &amp;#8226; AWS AWS CloudFormation AWS CodeBuild
+ Re:Invent week 1 recap: releases and launches for M&amp;amp;E workloads
+11:02 PM &amp;#8226; AWS Announcements Media &amp;amp; Entertainment
+ Azure IRAP has assessed seven additional services and granted them the level of PROTECTED
+10:08 PM &amp;#8226; Azure
+ Amazon Connect reduces 10 Latin America telephony rates
+09:47 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>03 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/03/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/03/</guid>
+      <description>Amazon Connect Chat now supports Apple Business Chat (Preview)
+11:53 PM &amp;#8226; AWS
+ A new Terraform module for serverless load balancing
+11:50 PM &amp;#8226; GCP Application Development Serverless
+ IoT Hub private link now works with the built-in Event Hub compatible endpoint
+11:43 PM &amp;#8226; Azure
+ Announcing Amazon CloudWatch Lambda Insights (General Availability)
+11:36 PM &amp;#8226; AWS
+ Serverless Batch Scheduling with AWS Batch and AWS Fargate</description>
+    </item>
+    
+    <item>
+      <title>02 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/02/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/02/</guid>
+      <description>AWS re:Invent 2020: data transfer, hybrid cloud, and edge computing sessions
+11:38 PM &amp;#8226; AWS Announcements AWS DataSync
+ AWS Partners Are Enthusiastic About Validating Their Solutions with AWS Outposts
+10:59 PM &amp;#8226; AWS AWS Outposts AWS Partner Network
+ Announcing Three New Digital Courses for AWS Snowcone
+10:50 PM &amp;#8226; AWS
+ Azure Sphere OS version 20.12 is now available for evaluation
+10:22 PM &amp;#8226; Azure
+ Performing simulations at scale with Amazon SageMaker Processing and R on RStudio</description>
+    </item>
+    
+    <item>
+      <title>01 December, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/12/01/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/12/01/</guid>
+      <description>Amazon QuickSight launches new session capacity pricing options, embedding without user management and a developer portal for embedded analytics
+11:30 PM &amp;#8226; AWS
+ Configuring AWS VPN for UK public sector use
+10:50 PM &amp;#8226; AWS AWS VPN Security, Identity, &amp;amp; Compliance
+ Azure Batch vCPU quota checks are being updated
+10:00 PM &amp;#8226; Azure
+ Azure Storage blob inventory public preview
+09:00 PM &amp;#8226; Azure
+ Amazon EKS Distro: The Kubernetes Distribution Used by Amazon EKS</description>
+    </item>
+    
+    <item>
+      <title>30 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/30/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/30/</guid>
+      <description>Using SSH Remote Forwarding for Private Access
+10:50 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
+ Azure Sphere SDK version 20.11 is now available
+10:35 PM &amp;#8226; Azure
+ Keeping your data lake clean and compliant with Amazon Athena
+10:08 PM &amp;#8226; AWS Amazon Athena Amazon S3 Glacier
+ Customization, automation and scalability in customer service: Integrating Genesys Cloud and AWS Contact Center Intelligence
+09:34 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence</description>
+    </item>
+    
+    <item>
+      <title>29 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/29/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/29/</guid>
+      <description> Parsing product descriptions with Oracle Enterprise Data Quality
+12:58 PM &amp;#8226; Oracle  </description>
+    </item>
+    
+    <item>
+      <title>28 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/28/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/28/</guid>
+      <description> The Amazon Chime SDK now supports messaging
+05:03 AM &amp;#8226; AWS  </description>
+    </item>
+    
+    <item>
+      <title>27 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/27/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/27/</guid>
+      <description>Increasing agility and reducing costs with AWS Storage during the COVID-19 pandemic
+11:26 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Amazon Simple Storage Services (S3)
+ Amazon CodeGuru Reviewer announces CodeQuality Detector to help manage technical debt and codebase maintainability
+11:05 PM &amp;#8226; AWS
+ The Amazon Chime SDK now supports messaging
+10:57 PM &amp;#8226; AWS
+ From on premises to AWS: Hybrid-cloud architecture for network file shares</description>
+    </item>
+    
+    <item>
+      <title>26 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/26/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/26/</guid>
+      <description>Explore what’s in store for Amazon RDS at re:Invent 2020
+08:55 PM &amp;#8226; AWS Amazon Aurora Amazon RDS
+ Building a biological knowledge graph at Pendulum using Amazon Neptune
+05:41 PM &amp;#8226; AWS Amazon Neptune
+ What’s new with Google Cloud
+10:00 AM &amp;#8226; GCP Google Workspace Inside Google Cloud
+ Amazon Transcribe announces support for Ogg opus and FLAC encoded audio for streaming transcription
+04:18 AM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>25 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/25/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/25/</guid>
+      <description>MISB ST 1910 and KLV: Changing the game in intelligence, entertainment, and beyond
+10:26 PM &amp;#8226; AWS AWS Elemental MediaLive AWS Elemental MediaPackage
+ Amazon Transcribe announces support for Ogg opus and FLAC encoded audio for streaming transcription
+09:45 PM &amp;#8226; AWS
+ Streaming Media Readers Select AWS Services
+06:54 PM &amp;#8226; AWS Amazon CloudFront Announcements
+ AWS Security Profiles: Ram Ramani, Senior Security Solutions Architect
+06:39 PM &amp;#8226; AWS Security, Identity, &amp;amp; Compliance AWS Security Profile</description>
+    </item>
+    
+    <item>
+      <title>24 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/24/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/24/</guid>
+      <description>Introducing AWS CloudFormation modules
+11:43 PM &amp;#8226; AWS Announcements AWS CloudFormation
+ Amazon RDS Performance Insights supports an additional dimension to segment performance data on Amazon RDS for MySQL, Amazon Aurora with MySQL compatibility, and Amazon RDS for MariaDB
+11:29 PM &amp;#8226; AWS
+ Amazon RDS Performance Insights supports additional dimensions to segment performance data on Amazon RDS for PostgreSQL and Amazon Aurora with PostgreSQL compatibility
+11:29 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>23 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/23/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/23/</guid>
+      <description>Creating ServiceNow incidents for AWS License Manager notifications
+11:18 PM &amp;#8226; AWS Amazon EC2 Amazon Simple Notification Service (SNS)
+ Building natural conversation flows using context management in Amazon Lex
+11:11 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence
+ New – Multi-Factor Authentication with WebAuthn for AWS SSO
+11:11 PM &amp;#8226; AWS AWS Single Sign-On (SSO) Launch
+ Data preprocessing for machine learning on Amazon EMR made easy with AWS Glue DataBrew</description>
+    </item>
+    
+    <item>
+      <title>21 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/21/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/21/</guid>
+      <description> Bringing Agility to Financial Services with the Fujitsu Mainframe Modernization Solution
+02:37 AM &amp;#8226; AWS AWS Partner Network Customer Solutions
+ AWS Single Sign-On adds Web Authentication (WebAuthn) support for user authentication with security keys and built-in biometric authenticators
+12:46 AM &amp;#8226; AWS
+ Getting started with Amazon Kendra ServiceNow Online connector
+12:06 AM &amp;#8226; AWS Amazon Kendra Artificial Intelligence
+  </description>
+    </item>
+    
+    <item>
+      <title>20 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/20/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/20/</guid>
+      <description>Amazon Augmented AI is now a HIPAA eligible service
+11:58 PM &amp;#8226; AWS Amazon Augmented AI Artificial Intelligence
+ How DeepMap optimizes their video inference workflow with Amazon SageMaker Processing
+11:08 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ Amazon CloudWatch Application Insights adds Java Application Monitoring
+10:59 PM &amp;#8226; AWS
+ Amazon Connect adds additional call attributes to improve fraud detection and routing
+10:57 PM &amp;#8226; AWS
+ Amazon CodeGuru Reviewer announces tag support to better organize resources</description>
+    </item>
+    
+    <item>
+      <title>19 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/19/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/19/</guid>
+      <description>Amazon QuickSight launches persistence and cross dataset filters
+11:50 PM &amp;#8226; AWS
+ Announcing context management on Amazon Lex
+11:33 PM &amp;#8226; AWS
+ Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento
+11:26 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
+ Control the evolution of data streams using the AWS Glue Schema Registry
+11:25 PM &amp;#8226; AWS
+ Amazon EC2 Inf1 instances based on AWS Inferentia now available in 6 additional regions</description>
+    </item>
+    
+    <item>
+      <title>18 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/18/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/18/</guid>
+      <description>Amazon RDS Performance Insights Supports SQL-level Metrics on Amazon RDS for PostgreSQL
+11:24 PM &amp;#8226; AWS
+ WANdisco Accelerates GoDaddy’s Hadoop Cloud Migration to AWS Without Business Interruption
+11:15 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS Marketplace
+ Amazon S3 Storage Lens delivers organization-wide visibility into object storage usage and activity trends
+11:07 PM &amp;#8226; AWS
+ AWS and the New Zealand notifiable privacy breach scheme
+11:05 PM &amp;#8226; AWS Announcements AWS Artifact</description>
+    </item>
+    
+    <item>
+      <title>17 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/17/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/17/</guid>
+      <description>Centrally manage AWS WAF (API v2) and AWS Managed Rules at scale with Firewall Manager
+11:51 PM &amp;#8226; AWS AWS Firewall Manager AWS WAF
+ 120 AWS services achieve HITRUST certification
+11:40 PM &amp;#8226; AWS Announcements AWS Artifact
+ New IDC Study Shows VMware Cloud on AWS Delivers Significant Value to Customers
+11:21 PM &amp;#8226; AWS Announcements AWS Partner Network
+ AWS Launch Wizard now enables customers to further automate SAP deployments with pre and post-deployment configuration scripts</description>
+    </item>
+    
+    <item>
+      <title>16 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/16/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/16/</guid>
+      <description>Automatically Visualize and Monitor Applications on Amazon EKS with Instana
+11:32 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Customer Solutions
+ Amazon CloudWatch Synthetics now supports Environment Variables
+11:24 PM &amp;#8226; AWS
+ Investigate VPC flow with Amazon Detective
+11:22 PM &amp;#8226; AWS Amazon Detective Security, Identity, &amp;amp; Compliance
+ Introducing Machine to Cloud Connectivity Framework v1.2
+10:53 PM &amp;#8226; AWS
+ General availability: VPN over ExpressRoute private peering</description>
+    </item>
+    
+    <item>
+      <title>14 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/14/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/14/</guid>
+      <description> Fall 2020 SOC 2 Type I Privacy report now available
+07:31 PM &amp;#8226; AWS Announcements Security, Identity, &amp;amp; Compliance
+ Fall 2020 SOC reports now available with 124 services in scope
+07:31 PM &amp;#8226; AWS Announcements Security, Identity, &amp;amp; Compliance
+ Predicting qualification ranking based on practice session performance for Formula 1 Grand Prix
+02:10 AM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+  </description>
+    </item>
+    
+    <item>
+      <title>13 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/13/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/13/</guid>
+      <description>Amazon QuickSight launches new Chart Types, Table Improvements and more
+10:18 PM &amp;#8226; AWS
+ Cloud Native Application Monitoring for AWS
+08:50 PM &amp;#8226; AWS Amazon CloudWatch AWS Lambda
+ Amazon Athena adds support for running SQL queries across relational, non-relational, object, and custom data sources.
+08:42 PM &amp;#8226; AWS
+ Network Load Balancer now supports IPv6
+08:39 PM &amp;#8226; AWS
+ Amazon Athena announces availability of engine version 2</description>
+    </item>
+    
+    <item>
+      <title>12 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/12/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/12/</guid>
+      <description>How Ensono Delivered Guinness World Records’ Award-Winning Migration of Windows Workloads to AWS
+11:53 PM &amp;#8226; AWS AWS Partner Network Case Study
+ BigQuery Explained: Data Manipulation (DML)
+11:30 PM &amp;#8226; GCP Developers &amp;amp; Practitioners
+ Amazon Lex adds language support for French, Spanish, Italian and Canadian French
+11:03 PM &amp;#8226; AWS
+ Custom Translator V2 upgrade (full trainability) is generally available
+11:00 PM &amp;#8226; Azure machine translation NMT</description>
+    </item>
+    
+    <item>
+      <title>11 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/11/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/11/</guid>
+      <description>AWS Amplify Hosting is now generally available in the Europe (Milan), Middle East (Bahrain), and Asia Pacific (Hong Kong) regions
+11:23 PM &amp;#8226; AWS
+ AWS Elemental Link adds features and service regions
+11:14 PM &amp;#8226; AWS
+ Introducing AWS Gateway Load Balancer
+11:13 PM &amp;#8226; AWS
+ NICE DCV releases version 2020.2 with new session manager and performance enhancements for high frame rate interactive workloads
+11:11 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>10 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/10/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/10/</guid>
+      <description>How to secure your Amazon WorkSpaces for external users
+11:52 PM &amp;#8226; AWS Amazon WorkSpaces Security, Identity, &amp;amp; Compliance
+ Now privately connect to AWS Database Migration Service from Amazon Virtual Private Cloud
+11:18 PM &amp;#8226; AWS
+ Redacting sensitive information with user-defined functions in Amazon Athena
+10:31 PM &amp;#8226; AWS Amazon Athena
+ Azure Automation is now available in Brazil Southeast region
+10:13 PM &amp;#8226; Azure
+ British Newscaster speaking style now available in Amazon Polly</description>
+    </item>
+    
+    <item>
+      <title>09 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/09/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/09/</guid>
+      <description>Introducing the Video On Demand on AWS Foundation Solution
+11:25 PM &amp;#8226; AWS Announcements Best Practices
+ Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns
+10:40 PM &amp;#8226; AWS
+ Announcing AWS DeepComposer’s next Chartbusters challenge, Keep Calm and Model On
+10:12 PM &amp;#8226; AWS
+ Now you can export your Amazon DynamoDB table data to your data lake in Amazon S3 to perform analytics at any scale</description>
+    </item>
+    
+    <item>
+      <title>07 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/07/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/07/</guid>
+      <description> How AWS Machine Learning Services Increase Medical Coding Accuracy and Efficiency
+01:04 AM &amp;#8226; AWS Amazon Comprehend Medical Amazon Machine Learning
+ Amazon Aurora with PostgreSQL Compatibility supports data import from Amazon S3 in AWS GovCloud (US) Regions
+12:34 AM &amp;#8226; AWS
+  </description>
+    </item>
+    
+    <item>
+      <title>06 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/06/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/06/</guid>
+      <description>New AWS Solutions Consulting Offer - Next-Generation Landing Zone
+10:22 PM &amp;#8226; AWS
+ Amazon Connect Discounts Toll-Free Phone Number Pricing for the United States
+09:52 PM &amp;#8226; AWS
+ How Zoolz migrated PBs of data to Amazon S3 Glacier Deep Archive
+09:31 PM &amp;#8226; AWS Amazon S3 Glacier Amazon S3 Glacier Deep Archive
+ Amazon Aurora now supports PostgreSQL versions 10.12 and 9.6.17 in AWS GovCloud (US) Regions</description>
+    </item>
+    
+    <item>
+      <title>05 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/05/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/05/</guid>
+      <description>Amazon Translate now enables you to mark content to not get translated
+11:54 PM &amp;#8226; AWS Amazon Translate Artificial Intelligence
+ Intelligently connect to customers using machine learning in the COVID-19 pandemic
+11:42 PM &amp;#8226; AWS Amazon Connect Amazon Lex
+ AWS Fargate for Amazon ECS launches features focused on configuration and metrics
+10:56 PM &amp;#8226; AWS
+ Enable password authentication for AWS Transfer Family using AWS Secrets Manager (updated)</description>
+    </item>
+    
+    <item>
+      <title>04 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/04/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/04/</guid>
+      <description>Proactively manage the Spot Instance lifecycle using the new Capacity Rebalancing feature for EC2 Auto Scaling
+11:51 PM &amp;#8226; AWS Amazon EC2 Auto Scaling
+ Amazon Kinesis Data Streams enables data stream retention up to one year
+11:44 PM &amp;#8226; AWS
+ Introducing EC2 Instance rebalance recommendation for EC2 Spot Instances
+11:41 PM &amp;#8226; AWS
+ Amazon EC2 On-Demand Capacity Reservations now supports AWS Wavelength Zones
+11:25 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>03 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/03/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/03/</guid>
+      <description>Adding custom data sources to Amazon Kendra
+11:15 PM &amp;#8226; AWS Amazon Kendra
+ Part 3: Simplifying with NMOS
+10:57 PM &amp;#8226; AWS Best Practices Media &amp;amp; Entertainment
+ Explaining Amazon SageMaker Autopilot models with SHAP
+10:57 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ Handling Region parity with infrastructure as code
+10:52 PM &amp;#8226; AWS Amazon CloudWatch AWS CloudFormation
+ Creating an intelligent ticket routing solution using Slack, Amazon AppFlow, and Amazon Comprehend</description>
+    </item>
+    
+    <item>
+      <title>02 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/02/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/02/</guid>
+      <description>Amazon EC2 P4d instances deep dive
+11:28 PM &amp;#8226; AWS Amazon EC2 Amazon Machine Learning
+ Amazon GuardDuty now available in AWS GovCloud (US-East) Region
+10:59 PM &amp;#8226; AWS
+ Introducing new visualization features in AWS IoT SiteWise: Status Charts, Scatter Plot and Trend lines
+10:54 PM &amp;#8226; AWS
+ Advice for customers dealing with Docker Hub rate limits, and a Coming Soon announcement
+10:00 PM &amp;#8226; AWS Amazon EC2 Container Registry Containers</description>
+    </item>
+    
+    <item>
+      <title>01 November, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/11/01/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/11/01/</guid>
+      <description> Azure Time Series Insights Gen2 Preview APIs Deprecated
+05:00 PM &amp;#8226; Azure Azure Time Series Insights
+ Learn How to Be the Best at Fusion Applications Cloud Multi pillar implementation
+12:44 AM &amp;#8226; Oracle A-Team Chronicles Applications
+  </description>
+    </item>
+    
+    <item>
+      <title>31 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/31/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/31/</guid>
+      <description>Fine-tuning blue/green deployments on application load balancer
+01:59 AM &amp;#8226; AWS DevOps Technical How-to
+ Automating deployments to Raspberry Pi devices using AWS CodePipeline
+01:44 AM &amp;#8226; AWS DevOps AWS CodeBuild
+ Rapid and flexible Infrastructure as Code using the AWS CDK with AWS Solutions Constructs
+01:33 AM &amp;#8226; AWS *Post Types AWS Cloud Development Kit
+ Deploying and using the Document Understanding Solution
+01:12 AM &amp;#8226; AWS Amazon Comprehend Amazon Comprehend Medical</description>
+    </item>
+    
+    <item>
+      <title>30 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/30/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/30/</guid>
+      <description>Training and serving H2O models using Amazon SageMaker
+11:43 PM &amp;#8226; AWS Amazon Corretto Amazon SageMaker
+ AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB compatibility) as a source
+09:34 PM &amp;#8226; AWS
+ Onboarding and Managing Agents in a SaaS Solution – Using AWS IoT Core
+09:17 PM &amp;#8226; AWS AWS Partner Network Best Practices
+ Connecting Your LoRaWAN Devices from The Things Stack to AWS IoT Core</description>
+    </item>
+    
+    <item>
+      <title>29 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/29/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/29/</guid>
+      <description>Amazon Kendra achieves HIPAA eligibility
+10:22 PM &amp;#8226; AWS
+ Application Load Balancers enables gRPC workloads with end to end HTTP/2 support
+10:12 PM &amp;#8226; AWS
+ Amazon API Gateway now supports disabling the default REST API endpoint
+10:03 PM &amp;#8226; AWS
+ Amazon SES now offers list and subscription management capabilities
+10:01 PM &amp;#8226; AWS
+ New – Application Load Balancer Support for End-to-End HTTP/2 and gRPC
+09:52 PM &amp;#8226; AWS Announcements Elastic Load Balancing</description>
+    </item>
+    
+    <item>
+      <title>28 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/28/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/28/</guid>
+      <description>Customizing account configuration with AWS Control Tower lifecycle events
+10:58 PM &amp;#8226; AWS Amazon VPC AWS Control Tower
+ Announcing General Availability of AWS Nitro Enclaves
+10:34 PM &amp;#8226; AWS
+ Announcing SSL/TLS certificates for Amazon EC2 instances with AWS Certificate Manager (ACM) for Nitro Enclaves
+10:34 PM &amp;#8226; AWS
+ Azure Sphere 20.10 Update 1 is now available for compatibility testing
+10:32 PM &amp;#8226; Azure
+ AWS Nitro Enclaves – Isolated EC2 Environments to Process Confidential Data</description>
+    </item>
+    
+    <item>
+      <title>27 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/27/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/27/</guid>
+      <description>Oracle Analytics Cloud Private Endpoint Parent Post
+10:33 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
+ Amazon Rekognition Custom Labels makes it easier to import, search, and filter dataset label lists
+10:16 PM &amp;#8226; AWS
+ Anatomy of a live streaming AWS CloudFormation template
+10:11 PM &amp;#8226; AWS Amazon CloudFront Best Practices
+ Schema Registry for Azure Event Hubs public preview
+10:10 PM &amp;#8226; Azure
+ AWS IoT SiteWise launches support for VPC private links</description>
+    </item>
+    
+    <item>
+      <title>26 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/26/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/26/</guid>
+      <description>Accessing external components using Amazon Redshift Lambda UDFs
+08:35 PM &amp;#8226; AWS Amazon Redshift Database
+ How to set Fluentd and Fluent Bit input parameters in FireLens
+08:28 PM &amp;#8226; AWS Amazon Elastic Container Service Containers
+ Automating DBA tasks on Amazon Redshift securely using AWS IAM, AWS Lambda, Amazon EventBridge, and stored procedures
+08:03 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Amazon Redshift announces support for Lambda UDFs and enables tokenization</description>
+    </item>
+    
+    <item>
+      <title>24 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/24/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/24/</guid>
+      <description> Communicate monitoring information by sharing Amazon CloudWatch dashboards
+02:54 AM &amp;#8226; AWS Amazon CloudWatch Learning Levels  </description>
+    </item>
+    
+    <item>
+      <title>23 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/23/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/23/</guid>
+      <description>Amazon SNS now supports selecting the origination number when sending SMS messages
+10:04 PM &amp;#8226; AWS
+ Amazon SNS now supports selecting the origination number when sending SMS messages
+10:01 PM &amp;#8226; AWS
+ AWS Copilot CLI launches v0.5 to let users deploy scheduled jobs and more
+09:56 PM &amp;#8226; AWS
+ Improving customer experience and reducing cost with CodeGuru Profiler
+09:02 PM &amp;#8226; AWS Amazon CodeGuru Artificial Intelligence</description>
+    </item>
+    
+    <item>
+      <title>22 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/22/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/22/</guid>
+      <description>Amazon Relational Database Service (RDS) Snapshot Export to S3 available in additional regions
+11:47 PM &amp;#8226; AWS
+ Amazon CloudFront announces support for public key management through IAM user permissions for signed URLs and signed cookies
+11:10 PM &amp;#8226; AWS
+ Online Tech Talk October 29: Quick and secure file migration with AWS DataSync
+10:52 PM &amp;#8226; AWS Announcements AWS DataSync
+ Amazon Redshift now supports the scheduling of SQL queries by integrating with Amazon EventBridge</description>
+    </item>
+    
+    <item>
+      <title>21 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/21/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/21/</guid>
+      <description>Using Amazon SageMaker inference pipelines with multi-model endpoints
+10:36 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Amazon Connect launches agent connection time metrics
+10:21 PM &amp;#8226; AWS
+ How HeleCloud Used AWS Secrets Manager to Automate Credentials Rotation of MS SQL on Amazon EC2
+10:05 PM &amp;#8226; AWS AWS Partner Network AWS Secrets Manager
+ Time series forecasting using unstructured data with Amazon Forecast and the Amazon SageMaker Neural Topic Model</description>
+    </item>
+    
+    <item>
+      <title>20 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/20/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/20/</guid>
+      <description>Advanced Connection Pooling with the Heimdall Proxy
+10:41 PM &amp;#8226; AWS Amazon RDS Amazon Redshift
+ AWS Batch now supports Configurable Job Retries
+09:43 PM &amp;#8226; AWS
+ Amazon Redshift now supports modifying column compression encodings to optimize storage utilization and query performance
+09:28 PM &amp;#8226; AWS
+ Optimizing Amazon EMR for resilience and cost with capacity-optimized Spot Instances
+09:24 PM &amp;#8226; AWS Amazon EMR Analytics
+ How to Start Your AWS Storage Journey with the APN Storage Navigate Track</description>
+    </item>
+    
+    <item>
+      <title>19 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/19/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/19/</guid>
+      <description>You now can manage access to Amazon Keyspaces by using temporary security credentials for the Python, Go, and Node.js Cassandra drivers
+11:18 PM &amp;#8226; AWS
+ Amazon Connect supports “neural” Text-to-Speech voices in the London, Frankfurt, Singapore, and Tokyo regions
+09:22 PM &amp;#8226; AWS
+ AWS DataSync simplifies initial setup for online data transfers
+08:33 PM &amp;#8226; AWS
+ AWS IQ now provides integrated access logs for expert activity</description>
+    </item>
+    
+    <item>
+      <title>18 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/18/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/18/</guid>
+      <description> Building a cross-account CI/CD pipeline for single-tenant SaaS solutions
+12:49 AM &amp;#8226; AWS AWS CloudFormation AWS CodeBuild  </description>
+    </item>
+    
+    <item>
+      <title>16 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/16/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/16/</guid>
+      <description>Amazon Rekognition now detects Personal Protective Equipment (PPE) such as face covers, head covers, and hand covers on persons in images
+09:51 PM &amp;#8226; AWS
+ Amazon QuickSight adds support for on-sheet filter controls
+09:47 PM &amp;#8226; AWS
+ Automatically detecting personal protective equipment on persons in images using Amazon Rekognition
+09:12 PM &amp;#8226; AWS Amazon Rekognition Artificial Intelligence
+ AWS Systems Manager Patch Manager now provides a catalog of all patches for Amazon Linux</description>
+    </item>
+    
+    <item>
+      <title>15 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/15/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/15/</guid>
+      <description>Detecting playful animal behavior in videos using Amazon Rekognition Custom Labels
+10:40 PM &amp;#8226; AWS Amazon Rekognition Artificial Intelligence
+ AWS Glue crawlers now support Amazon DocumentDB (with MongoDB compatibility) and MongoDB collections
+10:32 PM &amp;#8226; AWS
+ AWS Database Migration Service: Obsessed with helping customers break free from old-guard databases
+10:12 PM &amp;#8226; AWS AWS Database Migration Service Database
+ Announcing AWS Budgets Actions
+09:59 PM &amp;#8226; AWS</description>
+    </item>
+    
+    <item>
+      <title>14 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/14/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/14/</guid>
+      <description>Enhanced origin failover using Amazon CloudFront and AWS Lambda@Edge
+10:34 PM &amp;#8226; AWS Technical How-to Amazon CloudFront
+ Use AWS Firewall Manager to deploy protection at scale in AWS Organizations
+10:30 PM &amp;#8226; AWS AWS Firewall Manager Security, Identity, &amp;amp; Compliance
+ Building a medical image search platform on AWS
+09:39 PM &amp;#8226; AWS Amazon Comprehend Medical Amazon Elasticsearch Service
+ Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth</description>
+    </item>
+    
+    <item>
+      <title>13 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/13/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/13/</guid>
+      <description>Use AWS License Manager API operations to manage your software licenses in the cloud
+10:51 PM &amp;#8226; AWS Amazon RDS AWS CLI
+ Online Tech Talk October 21: Using Amazon S3 with AWS Outposts
+10:43 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) Announcements
+ Using speaker diarization for streaming transcription with Amazon Transcribe and Amazon Transcribe Medical
+10:37 PM &amp;#8226; AWS Amazon Transcribe Artificial Intelligence
+ Amazon EKS now supports Kubernetes version 1.</description>
+    </item>
+    
+    <item>
+      <title>12 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/12/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/12/</guid>
+      <description>BigQuery explained: Blog series
+10:00 PM &amp;#8226; GCP Data Analytics BigQuery
+ Event-driven refresh of SPICE datasets in Amazon QuickSight
+07:53 PM &amp;#8226; AWS Amazon QuickSight Analytics
+ Managing Amazon S3 access with VPC endpoints and S3 Access Points
+07:40 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) Amazon VPC
+ Amazon Rekognition adds support for six new content moderation categories
+07:28 PM &amp;#8226; AWS
+ CloudWatch Application Insights offers new, improved user interface</description>
+    </item>
+    
+    <item>
+      <title>11 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/11/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/11/</guid>
+      <description> What’s new with Google Cloud
+02:00 PM &amp;#8226; GCP Google Workspace Inside Google Cloud  </description>
+    </item>
+    
+    <item>
+      <title>09 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/09/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/09/</guid>
+      <description>Announcing Amazon CloudWatch Lambda Insights (preview)
+11:20 PM &amp;#8226; AWS
+ Amazon Connect supports Amazon Lex bots with US Spanish
+09:16 PM &amp;#8226; AWS
+ Amazon Rekognition Custom Labels now guides customers to fix dataset related errors, enabling faster creation of a high quality custom inference API
+09:06 PM &amp;#8226; AWS
+ Amazon Personalize announces improvements that reduce model training time by up to 40% and latency for generating recommendations by up to 30%</description>
+    </item>
+    
+    <item>
+      <title>08 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/08/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/08/</guid>
+      <description>Using Frame Rate Conversion to Expand Content Availability
+11:43 PM &amp;#8226; AWS Customer Solutions AWS Elemental
+ AWS IoT SiteWise is now available in Asia Pacific (Singapore) and Asia Pacific (Sydney) AWS regions
+10:52 PM &amp;#8226; AWS
+ AWS CodeArtifact now supports AWS CloudFormation
+10:10 PM &amp;#8226; AWS
+ Deploying application configuration to serverless: introducing the AWS AppConfig Lambda extension
+10:07 PM &amp;#8226; AWS Announcements AWS Lambda
+ Improved failure recovery for Amazon EventBridge</description>
+    </item>
+    
+    <item>
+      <title>07 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/07/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/07/</guid>
+      <description>Amazon WorkDocs now supports Dark Mode on iOS
+11:43 PM &amp;#8226; AWS
+ AWS Security Hub launches a new user interface for security standards
+11:08 PM &amp;#8226; AWS
+ Apache Flink Kinesis Consumer supports EFO and HTTP/2 data retrieval
+10:17 PM &amp;#8226; AWS
+ Interactive Scientific Visualization on AWS with NVIDIA IndeX SDK
+10:16 PM &amp;#8226; AWS Amazon Machine Learning Artificial Intelligence
+ Amazon ElastiCache for Redis adds support for Redis 6 with managed Role-Based Access Control (RBAC)</description>
+    </item>
+    
+    <item>
+      <title>06 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/06/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/06/</guid>
+      <description>Introducing Distributed Load Testing v1.1
+10:32 PM &amp;#8226; AWS
+ Automated configuration of Session Manager without an internet gateway
+10:25 PM &amp;#8226; AWS Amazon VPC AWS CloudFormation
+ Achieving 1.85x higher performance for deep learning based object detection with an AWS Neuron compiled YOLOv4 model on AWS Inferentia
+10:20 PM &amp;#8226; AWS Artificial Intelligence AWS Inferentia
+ Applications using Amazon SNS to send SMS can now be hosted in five new regions</description>
+    </item>
+    
+    <item>
+      <title>05 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/05/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/05/</guid>
+      <description>How to Unleash Mainframe Data with AWS and Qlik Replicate
+11:22 PM &amp;#8226; AWS AWS Big Data AWS Marketplace
+ Collaborating with AI to create Bach-like compositions in AWS DeepComposer
+10:27 PM &amp;#8226; AWS Artificial Intelligence AWS DeepComposer
+ You now can design and visualize Amazon Keyspaces data models more easily by using NoSQL Workbench
+10:03 PM &amp;#8226; AWS
+ A Quick Note on Using JWT Token Authentication with Oracle SaaS API</description>
+    </item>
+    
+    <item>
+      <title>02 October, 2020</title>
+      <link>http://staging.cloudchangelog.com/posts/2020/10/02/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2020/10/02/</guid>
+      <description>Simplify data management with new APIs in Amazon Personalize
+11:00 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
+ AWS Lake Formation now supports Active Directory and SAML providers for Amazon Athena
+09:53 PM &amp;#8226; AWS
+ Simplify data management in Amazon Personalize with new APIs
+09:51 PM &amp;#8226; AWS
+ AWS Config adds 15 new sample conformance pack templates and introduces simplified setup experience for conformance packs
+09:23 PM &amp;#8226; AWS</description>
+    </item>
     
     <item>
       <title>01 October, 2020</title>
@@ -17,13 +1413,13 @@
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>http://staging.cloudchangelog.com/posts/2020/10/01/</guid>
-      <description>Enabling multi-factor authentication for an Amazon Redshift cluster using Okta as an identity provider
-04:46 PM &amp;#8226; AWS Amazon Redshift
- Raw Logs and Metrics are generally available on Azure Content Delivery Network (CDN) from Microsoft CDN
-04:35 PM &amp;#8226; Azure
- Learn how to manage and optimize your Azure costs with our guided learning modules
-04:00 PM &amp;#8226; Azure Azure Cost Management
- Monitor Azure Arc enabled Kubernetes with Metric Alerts</description>
+      <description>Creating a multi-department enterprise search using custom attributes in Amazon Kendra
+11:07 PM &amp;#8226; AWS Amazon Kendra Artificial Intelligence
+ AWS CloudFormation Drift Detection now supports CloudFormation Registry resource types
+10:23 PM &amp;#8226; AWS
+ Amazon Rekognition Custom Labels now enables creating a single inference API to find diverse objects and scenes in images with high accuracy
+10:13 PM &amp;#8226; AWS
+ Amazon SageMaker Autopilot now Creates Machine Learning Models up to 40% Faster with up to 200% Higher Accuracy</description>
     </item>
     
     <item>
@@ -390,13 +1786,13 @@
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>http://staging.cloudchangelog.com/posts/2020/09/01/</guid>
-      <description>Quickly Visualize Marketing Analytics and Ads Data with Matillion, Amazon Redshift, and Amazon QuickSight
+      <description>Manage your Azure &amp;amp; Amazon Web Services (AWS) spending in a single location with Azure Cost Management +Billing
+10:30 PM &amp;#8226; Azure
+ Quickly Visualize Marketing Analytics and Ads Data with Matillion, Amazon Redshift, and Amazon QuickSight
 10:08 PM &amp;#8226; AWS Amazon QuickSight Amazon Redshift
- AWS WAF and AWS Shield Advanced Now Available in Africa (Cape Town) and EU (Milan)
-08:47 PM &amp;#8226; AWS
- Amplify CLI now supports tagging resources at a project level
-08:33 PM &amp;#8226; AWS
- Announcing the winner of the AWS DeepComposer Chartbusters Spin the Model challenge</description>
+ Azure Kubernetes Service: Node disk DOS by writing to container /etc/hosts (CVE-2020-8557)
+09:33 PM &amp;#8226; Azure
+ Azure Kubernetes Service: Privilege escalation from compromised node to cluster (CVE-2020-8559)</description>
     </item>
     
     <item>
