@@ -6,10 +6,557 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://staging.cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/05/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/05/</guid>
+      <description>AWS Best practices for Amazon RDS for PostgreSQL major upgrades and replicas
+Amazon RDS RDS For Postgresql
+ AWS Multimodal deep learning approach for event detection in sports using Amazon SageMaker
+Amazon Sagemaker Artificial Intelligence
+ AWS AWS CloudFormation now supports Amazon S3 on Outposts
+ AWS Amazon Connect now provides an out-of-the-box chat user interface for your website
+ AWS AWS IoT Device SDK for Embedded C now supports over-the-air update, AWS IoT Device Defender custom metrics, and multiple shadows for a single IoT device</description>
+    </item>
+    
+    <item>
+      <title>04 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/04/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/04/</guid>
+      <description>AWS Automating custom cost and usage tracking for member account owners in the AWS Migration Acceleration Program
+AWS Cost And Usage Report AWS Cost Management
+ AWS Manage Amazon EC2 instance clock accuracy using Amazon Time Sync Service and Amazon CloudWatch – Part 1
+Amazon Cloudwatch Management Tools
+ AWS ­­­­­­­How DataArt Helped Inchcape Shipping Services to Revolutionize Document Processing on AWS
+.NET Amazon Simple Storage Services (S3)
+ AWS Best practices for AWS Config conformance packs</description>
+    </item>
+    
+    <item>
+      <title>03 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/03/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/03/</guid>
+      <description>AWS Analyzing open-source ML pipeline models in real time using Amazon SageMaker Debugger
+Amazon Sagemaker Artificial Intelligence
+ AWS Integrating AWS Device Farm with your CI/CD pipeline to run cross-browser Selenium tests
+AWS Device Farm Devops
+ AWS How to delegate management of identity in AWS Single Sign-On
+AWS Single Sign-On (SSO) Security, Identity, &amp;amp; Compliance
+ AWS C5 Type 2 attestation report now available with one new Region and 123 services in scope</description>
+    </item>
+    
+    <item>
+      <title>02 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/02/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/02/</guid>
+      <description>AWS AWS Asia Pacific (Osaka) Region Now Open to All, with Three AZs and More Services
+Announcements Regions
+ AWS The AWS Lambda console now features a new navigation design
+ AWS New Amazon SNS Console Now Available in AWS GovCloud (US) Regions
+ AWS FreeRTOS Long Term Support now includes AWS IoT over-the-air update, AWS IoT Device Defender, and AWS IoT Jobs libraries
+ AWS Amazon EventBridge now supports propagation of X-Ray trace context</description>
+    </item>
+    
+    <item>
+      <title>01 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/01/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/01/</guid>
+      <description>AWS Creating Amazon Timestream interpolated views using Amazon Kinesis Data Analytics for Apache Flink
+Amazon Kinesis Amazon Quicksight
+ AWS Amazon Connect now supports 15 minute intervals for historical metric reporting
+ AWS AWS AppConfig is now available in AWS GovCloud (US) Regions
+ AWS Get ready to roll! 2021 AWS DeepRacer League Season is now underway
+ AWS Aventri moves its event management platform online with Amazon Interactive Video Service</description>
+    </item>
+    
+    <item>
+      <title>28 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/28/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/28/</guid>
+      <description> GCP What’s new with Google Cloud
+Google Workspace Inside Google Cloud
+ GCP 21 Google Cloud tools, each explained in under 2 minutes
+Developers &amp;amp; Practitioners Inside Google Cloud
+  </description>
+    </item>
+    
+    <item>
+      <title>27 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/27/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/27/</guid>
+      <description> GCP Optimizing your bucket options in Cloud Storage
+Developers &amp;amp; Practitioners
+ Oracle Deploying a Public Load Balancer for an Oracle Analytics Vanity URL
+A-Team Chronicles Analytics &amp;amp;Amp; Reporting
+ Oracle How to Separate your Oracle Fusion Applications Cloud for divestiture: Quickly and Easily
+A-Team Chronicles Accounting Hub Reporting
+  </description>
+    </item>
+    
+    <item>
+      <title>26 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/26/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/26/</guid>
+      <description>AWS Gaining operational insights with AIOps using Amazon DevOps Guru
+Amazon Machine Learning Devops
+ AWS Support for AS923-1 frequency band is now generally available for AWS IoT Core for LoRaWAN
+ AWS How to protect sensitive data for its entire lifecycle in AWS
+Amazon Cloudfront AWS Key Management Service
+ AWS Autoscaling Amazon ECS services based on custom CloudWatch and Prometheus metrics
+Amazon Elastic Container Service Containers
+ AWS Reminder: Amazon S3 and Amazon CloudFront service certificates migrating to Amazon Trust Services starting March 23, 2021</description>
+    </item>
+    
+    <item>
+      <title>25 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/25/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/25/</guid>
+      <description>AWS Using container images to run TensorFlow models in AWS Lambda
+Amazon Machine Learning Artificial Intelligence
+ AWS Developing enterprise application patterns with the AWS CDK
+AWS Cloud Development Kit AWS Cloudformation
+ AWS ACE Updates: Opportunity Management Enhancements for ACE Pipeline Manager
+Announcements AWS Partner Network
+ AWS New digital class and lab on DevOps on AWS
+ AWS Updated digital course on Coursera and edX - AWS Cloud Practitioner Essentials</description>
+    </item>
+    
+    <item>
+      <title>24 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/24/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/24/</guid>
+      <description>AWS Amazon EC2 Auto Scaling now shows scaling history for deleted groups
+ AWS Using container images to run TensorFlow models in AWS Lambda
+Amazon Machine Learning Artificial Intelligence
+ AWS Run usage analytics on Amazon QuickSight using AWS CloudTrail
+Amazon Quicksight Analytics
+ AWS Amazon DocumentDB (with MongoDB compatibility) re:Invent 2020 recap
+Amazon Documentdb AWS Re:Invent
+ AWS Announcing two new on-demand digital courses for Media Services
+ AWS Building a serverless multi-player game that scales</description>
+    </item>
+    
+    <item>
+      <title>23 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/23/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/23/</guid>
+      <description>AWS Use Amazon Athena and Amazon QuickSight to build custom reports of AWS Well-Architected Reviews
+Amazon Athena Amazon Quicksight
+ AWS Introducing our new Solutions Training for Partners: Sales Best Practices courses
+ AWS Analyze and understand IAM role usage with Amazon Detective
+Amazon Detective AWS Identity And Access Management (IAM)
+ AWS Retaining data streams up to one year with Amazon Kinesis Data Streams
+Amazon Kinesis Analytics
+ AWS Talkdesk and AWS: What AI and speech-to-text mean for the future of contact centers and a better customer experience</description>
+    </item>
+    
+    <item>
+      <title>22 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/22/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/22/</guid>
+      <description>AWS Operating Lambda: Building a solid security foundation – Part 1
+AWS Identity And Access Management (IAM) AWS Lambda
+ AWS Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors in Asia Pacific (Hong Kong), and Europe (Stockholm) regions
+ AWS Creating an Equitable Enterprise AWS Chargeback Model Using CloudHealth
+AWS Cost And Usage Report AWS Cost Management
+ AWS Introducing the AWS Media Asset Preparation System</description>
+    </item>
+    
+    <item>
+      <title>20 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/20/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/20/</guid>
+      <description> AWS Create a custom data connector to Slack’s Member Analytics API in Amazon QuickSight with Amazon Athena Federated Query
+Amazon Athena Amazon Quicksight
+ Azure Azure Image Builder Service now generally available
+ Oracle How to use the Oracle MySQL Database Service with applications that run in AWS
+Performance Solutions
+  </description>
+    </item>
+    
+    <item>
+      <title>19 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/19/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/19/</guid>
+      <description>AWS Building an administrative console in Amazon QuickSight to analyze usage metrics
+Amazon Quicksight Analytics
+ AWS Assign a Delegated Administrator to manage AWS CloudFormation StackSets across your AWS Organization
+ AWS New AWS Solutions Consulting Offer - AI-Powered Inventory Management
+ AWS How Zopa enhanced their fraud detection application using Amazon SageMaker Clarify
+Amazon Machine Learning Amazon Sagemaker
+ AWS Watch now: FOX: Uncompressed live sports in the cloud</description>
+    </item>
+    
+    <item>
+      <title>18 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/18/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/18/</guid>
+      <description>AWS Continuous permissions rightsizing to ensure least privileges in AWS using CloudKnox and AWS Config
+AWS Config AWS Identity And Access Management (IAM)
+ AWS Amazon CloudWatch Contributor Insights for Amazon DynamoDB now supports AWS CloudFormation
+ AWS Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions
+ AWS AWS and EU data transfers: strengthened commitments to protect customer data
+Announcements Security, Identity, &amp;amp; Compliance</description>
+    </item>
+    
+    <item>
+      <title>17 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/17/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/17/</guid>
+      <description>AWS Improving the CPU and latency performance of Amazon applications using AWS CodeGuru Profiler
+Amazon Codeguru Artificial Intelligence
+ AWS AWS Glue Studio now supports reading uncatalogued data from Amazon S3 and inferring its schema
+ AWS Solving numerical optimization problems like scheduling, routing, and allocation with Amazon SageMaker Processing
+Amazon Sagemaker Artificial Intelligence
+ AWS The 20 most-visited Amazon DynamoDB documentation pages
+Amazon Dynamodb
+ AWS Mergers and Acquisitions readiness with the Well-Architected Framework</description>
+    </item>
+    
+    <item>
+      <title>16 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/16/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/16/</guid>
+      <description>AWS Data processing options for AI/ML
+Amazon Machine Learning Artificial Intelligence
+ AWS AWS Elemental MediaLive now supports region transfer for AWS Elemental Link
+ AWS Amazon EKS now supports Kubernetes version 1.19
+ AWS AWS Fargate increases default resource count service quotas to 1000
+ AWS AWS Config now supports the ability to save advanced queries in AWS GovCloud (US) Regions
+ AWS AWS Elemental Link now available in Europe (Paris) region</description>
+    </item>
+    
+    <item>
+      <title>15 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/15/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/15/</guid>
+      <description>AWS Amazon DynamoDB session videos from AWS re:Invent 2020
+Amazon Dynamodb AWS Re:Invent
+ AWS Amazon Keyspaces (for Apache Cassandra) now supports PCI DSS compliance to help you run payment processing workloads more easily
+ AWS Amazon S3 on Outposts adds a smaller storage tier
+ AWS Announcing General Availability of Amplify Flutter, with new data and authentication support
+ AWS Scaling up a Serverless Web Crawler and Search Engine</description>
+    </item>
+    
+    <item>
+      <title>12 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/12/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/12/</guid>
+      <description>AWS Implementing multi-tenant patterns in Amazon Redshift using data sharing
+Amazon Redshift Analytics
+ AWS Introducing OIDC identity provider authentication for Amazon EKS
+Amazon Elastic Kubernetes Service Containers
+ AWS Cloud-based disaster recovery: Simple protection for every budget
+AWS Control Tower AWS Partner Network
+ AWS AWS WAF adds support for JSON parsing and inspection
+ AWS Scheduled Actions of Application Auto Scaling now support Local Time Zone
+ AWS Amazon Aurora Global Database supports managed planned failover</description>
+    </item>
+    
+    <item>
+      <title>11 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/11/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/11/</guid>
+      <description>AWS Building secure machine learning environments with Amazon SageMaker
+Amazon Machine Learning Amazon Sagemaker
+ AWS Insys keeps the arts alive with Play Kraków
+Customer Solutions Media &amp;amp; Entertainment
+ AWS Transitioning Mainframe Workloads into Agile Services with AWS and Micro Focus
+AWS Partner Network Customer Solutions
+ AWS Orchestrating database refreshes for Amazon RDS and Amazon Aurora
+Amazon Aurora Amazon RDS
+ AWS Querying a Vertica data source in Amazon Athena using the Athena Federated Query SDK</description>
+    </item>
+    
+    <item>
+      <title>10 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/10/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/10/</guid>
+      <description>AWS Accelerating your application modernization with Amazon Aurora Machine Learning
+Amazon Aurora Amazon Machine Learning
+ AWS Amazon Elastic Container Service Anomaly Detector using Amazon EventBridge
+Amazon Elastic Container Service Amazon Eventbridge
+ AWS Amazon Lex is now available in the AWS GovCloud (US-West) Region
+ AWS AWS Glue now provides column importance metrics in the FindMatches machine learning transform
+ AWS Introducing Serverless Image Handler v5.2
+ AWS Amazon VPC Traffic Mirroring is now supported on select non-Nitro instance types</description>
+    </item>
+    
+    <item>
+      <title>09 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/09/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/09/</guid>
+      <description>AWS Improving AWS Java applications with Amazon CodeGuru Reviewer
+Amazon Codeguru Artificial Intelligence
+ AWS Amazon Keyspaces (for Apache Cassandra) now helps you automate table creation by supporting point-in-time recovery and tag settings in AWS CloudFormation
+ AWS How to: Build an engaging feed app with React and Amazon IVS
+Amazon Interactive Video Service Media &amp;amp; Entertainment
+ AWS Extending SaaS products with serverless functions
+AWS Lambda Serverless
+ AWS Building a Single Source of Truth with a Data Hub from Semarchy</description>
+    </item>
+    
+    <item>
+      <title>08 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/08/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/08/</guid>
+      <description>AWS Operating Lambda: Application design – Scaling and concurrency: Part 2
+AWS Lambda Best Practices
+ AWS Application Load Balancer now supports Application Cookie Stickiness
+ AWS Amazon ECS Service Discovery Now Available in Africa (Cape Town) and Europe (Milan)
+ AWS Tape Ark Unlocks Dark Data on AWS with Tape-to-Cloud Migration
+Analytics AWS Partner Network
+ AWS Automating AWS service logs table creation and querying them with Amazon Athena</description>
+    </item>
+    
+    <item>
+      <title>06 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/06/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/06/</guid>
+      <description>AWS Monitor and scale your Amazon ECS on AWS Fargate application using Prometheus metrics
+Amazon Cloudwatch Auto Scaling
+ AWS Introducing Amazon CloudFront Security Savings Bundle
+ AWS Four ways to retrieve any AWS service property using AWS CloudFormation (Part 3 of 3)
+Amazon RDS AWS Cloudformation
+ AWS Four ways to retrieve any AWS service property using AWS CloudFormation (Part 2 of 3)
+Amazon EC2 AWS Cloudformation
+ GCP What’s new with Google Cloud</description>
+    </item>
+    
+    <item>
+      <title>05 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/05/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/05/</guid>
+      <description>AWS Testing EC2 Image Builder pipelines using Chef InSpec
+ AWS Anomaly detection with Amazon Lookout for Metrics
+Artificial Intelligence
+ AWS Amazon EFS introduces 3X read-throughput increase at no additional charge
+Amazon Cloudwatch Amazon Elastic File System (EFS)
+ AWS CoDetect: A Serverless AI-Powered Web App for Detecting Medical Conditions in CT Scans
+Amazon Machine Learning Artificial Intelligence
+ AWS Automating AWS service logs table creation and querying them with Amazon Athena</description>
+    </item>
+    
+    <item>
+      <title>04 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/04/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/04/</guid>
+      <description>AWS Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish
+Amazon Lex Artificial Intelligence
+ AWS Using genetic algorithms on AWS for optimization problems
+Artificial Intelligence
+ AWS Klook Case Study
+Amazon Elastic Container Service AWS Fargate
+ AWS New – Amazon Elastic Block Store Local Snapshots on AWS Outposts
+Amazon Elastic Block Storage (EBS) AWS Outposts
+ AWS Amazon Connect is now available in the AWS GovCloud (US-West) Region</description>
+    </item>
+    
+    <item>
+      <title>03 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/03/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/03/</guid>
+      <description>AWS Automating complex deep learning model training using Amazon SageMaker Debugger and AWS Step Functions
+Amazon Sagemaker Artificial Intelligence
+ AWS AWS Backup Events and Metrics now available in Amazon CloudWatch
+ AWS AWS Elemental MediaLive adds support for VPC outputs
+ AWS Node.js 14.x runtime now available in AWS Lambda
+AWS Lambda Compute
+ AWS Building secure Amazon SageMaker access URLs with AWS Service Catalog
+Management Tools Amazon Sagemaker</description>
+    </item>
+    
+    <item>
+      <title>02 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/02/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/02/</guid>
+      <description>AWS Best practices for creating and managing sandbox accounts in AWS
+Amazon Eventbridge AWS Cloudtrail
+ AWS Insights is now generally available for AWS X-Ray
+ AWS Amazon Macie announces a slew of new capabilities including support for cross-account sensitive data discovery, scanning by Amazon S3 object prefix, improved pre-scan cost estimation, and added location detail in findings
+ AWS Amazon S3 now supports AWS PrivateLink
+ AWS Amazon RDS for Oracle supports Oracle Application Express (APEX) Version 20.</description>
+    </item>
+    
+    <item>
+      <title>01 February, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/02/01/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/02/01/</guid>
+      <description>AWS Building Multi-partner integration on AWS using Event-Driven Architecture
+Amazon Elastic Container Service Amazon Simple Notification Service (SNS)
+ AWS Operating Lambda: Application design and Service Quotas – Part 1
+AWS Lambda Best Practices
+ AWS Migrating a commercial database to open source with AWS SCT and AWS DMS
+AWS Schema Conversion Tool
+ AWS Detecting anomalous values by invoking the Amazon Athena machine learning inference function
+Amazon Athena AWS Big Data</description>
+    </item>
+    
+    <item>
+      <title>31 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/31/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/31/</guid>
+      <description> AWS Automate AWS Backups with AWS Service Catalog
+AWS Backup AWS Service Catalog
+ Oracle Using a WAF with Oracle Analytics Cloud
+Analytics Cloud Security
+  </description>
+    </item>
+    
+    <item>
+      <title>30 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/30/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/30/</guid>
+      <description>Azure General availability: Text Analytics&amp;rsquo; Named Entity Recognition v3 now supports 10 languages with improved AI quality
+Text Analytics Named Entity Recognition
+ Oracle Connecting to Private Data Sources using Oracle Analytics Cloud Private Access Channel
+A-Team Chronicles Analytics &amp;amp;Amp; Reporting
+ Oracle Enabling Oracle Analytics Cloud Private Access Channel
+A-Team Chronicles Analytics &amp;amp;Amp; Reporting
+ Oracle Oracle Analytics Cloud Private Access Channel Parent Post
+A-Team Chronicles Analytics &amp;amp;Amp; Reporting</description>
+    </item>
+    
+    <item>
+      <title>29 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/29/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/29/</guid>
+      <description>AWS Forecasting AWS spend using the AWS Cost and Usage Reports, AWS Glue DataBrew, and Amazon Forecast
+Amazon Forecast Artificial Intelligence
+ AWS How CyberZ performs read-light operations to display followees’ activities in the timeline using Amazon DynamoDB
+Amazon Dynamodb
+ AWS Embracing Hybrid Cloud with Citrix SD-WAN and AWS Transit Gateway Connect
+AWS Transit Gateway Customer Solutions
+ AWS The Journey to AWS MSP: Best Practices for Executing the AWS MSP Full Audit</description>
+    </item>
+    
+    <item>
+      <title>28 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/28/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/28/</guid>
+      <description>AWS Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS
+ AWS AWS Glue DataBrew is now available in six additional AWS Regions
+ AWS How Kount migrated a critical workload to Amazon DynamoDB from Cassandra
+Amazon Dynamodb
+ AWS Amazon SES now lets you assign a configuration set to an email identity
+ AWS Field Notes: Speed Up Redaction of Connected Car Data by Multiprocessing Video Footage with Amazon Rekognition</description>
+    </item>
+    
+    <item>
+      <title>27 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/27/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/27/</guid>
+      <description>AWS Building server-side rendering for React in AWS Lambda
+AWS Lambda Lambda@Edge
+ AWS Discover, review, and remediate unintended access to Secrets Manager secrets using IAM Access Analyzer
+ AWS 2020 Technology and Engineering Emmy® Awards Recognize AWS as Video Streaming Skyrockets
+AWS Elemental Mediaconvert Media &amp;amp; Entertainment
+ AWS Amazon FSx is now available in the AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions
+ AWS Amazon Elasticsearch Service extends encryption at rest and node-to-node encryption to existing domains</description>
+    </item>
+    
+    <item>
+      <title>26 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/26/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/26/</guid>
+      <description>AWS AWS is the first global cloud service provider to comply with the new K-ISMS-P standard
+Announcements Security, Identity, &amp;amp; Compliance
+ AWS Amazon EBS announces CloudWatch metrics with 1-minute granularity on all EBS volume types
+ AWS How to deliver natural conversational experiences using Amazon Lex Streaming APIs
+Amazon Lex Artificial Intelligence
+ AWS Fluent Bit Integration in CloudWatch Container Insights for EKS
+Amazon Elastic Kubernetes Service AWS Fargate</description>
+    </item>
+    
+    <item>
+      <title>25 January, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/01/25/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/01/25/</guid>
+      <description>AWS Operating Lambda: Anti-patterns in event-driven architectures – Part 3
+AWS Lambda Best Practices
+ AWS AWS Shield Advanced now provides mitigation metrics and network traffic timelines
+ AWS Amagi and A+E Networks UK: Broadcast Playout Cloud Transformation
+Customer Solutions A&amp;#43;E Networks UK
+ AWS Building your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 1: End-to-end solution
+Amazon Rekognition Amazon Sagemaker Ground Truth</description>
+    </item>
     
     <item>
       <title>23 January, 2021</title>
