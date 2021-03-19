@@ -6,10 +6,198 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://staging.cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/19/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/19/</guid>
+      <description> Oracle An approach to separate your Oracle Fusion Applications Cloud for divestiture
+A-Team Chronicles Architecture  </description>
+    </item>
+    
+    <item>
+      <title>18 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/18/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/18/</guid>
+      <description>AWS Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3
+Amazon Simple Storage Services (S3) Announcements
+ AWS Amazon EC2 Auto Scaling Instance Refresh now supports phased deployments
+ AWS Amazon RDS for MySQL now supports rollback protection for database major version upgrades
+ AWS AWS Launch Wizard now supports ‘No Rollback on Failure’
+ AWS Highlights from the latest AWS Identity launches</description>
+    </item>
+    
+    <item>
+      <title>17 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/17/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/17/</guid>
+      <description>AWS AWS achieves its first ISMAP certification in Japan
+Security, Identity, &amp;amp; Compliance AWS Compliance
+ AWS Export and analyze Amazon DynamoDB data in an Amazon S3 data lake in Apache Parquet format
+Amazon Athena Amazon Dynamodb
+ AWS Amazon Connect launches new metric capabilities for measuring queue service levels
+ AWS AI for AgriTech: Classifying Kiwifruits using Amazon Rekognition Custom Labels
+Amazon Machine Learning Amazon Rekognition
+ AWS Building an image searching solution with the AWS CDK</description>
+    </item>
+    
+    <item>
+      <title>16 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/16/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/16/</guid>
+      <description>AWS Connecting to an interactive shell on your containers running in AWS Fargate using AWS Copilot
+Containers AWS Copilot
+ AWS New AWS Solutions Consulting Offer - Build Cloud Foundations
+ AWS Amazon RDS Proxy adds read-only endpoints for Amazon Aurora Replicas
+ AWS New Amazon EC2 X2gd Instances – Graviton2 Power for Memory-Intensive Workloads
+Amazon EC2 Graviton
+ AWS New digital course: Amazon S3 Cost Optimization
+ AWS New AWS Solutions Consulting Offer - Deploy Containers on AWS</description>
+    </item>
+    
+    <item>
+      <title>15 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/15/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/15/</guid>
+      <description>AWS Build proactive database monitoring for Amazon RDS with Amazon CloudWatch Logs, AWS Lambda, and Amazon SNS
+Amazon Cloudwatch Amazon RDS
+ AWS Architecting for high availability on Amazon S3
+Amazon Simple Storage Services (S3) Events
+ AWS Improving your Java applications using Amazon CodeGuru Profiler
+Amazon Codeguru Amazon Codeguru Profiler
+ AWS AWS Fault Injection Simulator – Use Controlled Experiments to Boost Resilience
+AWS Re:Invent Launch
+ AWS AWS Cost Anomaly Detection now supports AWS CloudFormation</description>
+    </item>
+    
+    <item>
+      <title>14 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/14/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/14/</guid>
+      <description> AWS Amazon S3’s 15th Birthday – It is Still Day 1 after 5,475 Days &amp;amp; 100 Trillion Objects
+Amazon S3 Glacier Amazon Simple Storage Services (S3)
+ AWS Improve governance and business agility using AWS Management and Governance videos
+Customer Solutions How-To
+  </description>
+    </item>
+    
+    <item>
+      <title>13 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/13/</link>
+      <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/13/</guid>
+      <description> AWS How you can use Amazon GuardDuty to detect suspicious activity within your AWS account
+Amazon Guardduty Security, Identity, &amp;amp; Compliance
+ AWS Deploying IBM Mainframe z/OS on AWS with IBM ZD&amp;amp;T
+AWS Partner Network Customer Solutions
+ GCP Serving up data from Cloud Storage
+Developers &amp;amp; Practitioners
+  </description>
+    </item>
+    
+    <item>
+      <title>12 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/12/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/12/</guid>
+      <description>AWS Using Amazon CloudWatch Synthetics to find broken links on your website
+Amazon Cloudwatch Management Tools
+ AWS From forecasting demand to ordering – An automated machine learning approach with Amazon Forecast to decrease stockouts, excess inventory, and costs
+Amazon Forecast Artificial Intelligence
+ AWS New AWS Solutions Consulting Offer - Virtual Desktop Accelerator
+ AWS New AWS Solutions Consulting Offer - Design and Implementation for Druva Data Protection Solutions</description>
+    </item>
+    
+    <item>
+      <title>11 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/11/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/11/</guid>
+      <description>AWS Journey to Adopt Cloud-native Architecture Series: #1 – Preparing your Applications for Hypergrowth
+Amazon EC2 Amazon RDS
+ AWS Amazon Elasticsearch Service now publishes events to Amazon CloudWatch and Amazon EventBridge for service software updates
+ AWS AWS Elemental MediaTailor introduces Channel Assembly for creating virtual linear OTT channels
+ AWS PDF document pre-processing with Amazon Textract: Visuals detection and removal
+Amazon Textract Artificial Intelligence
+ AWS Get to know the first new AWS Heroes of 2021!</description>
+    </item>
+    
+    <item>
+      <title>10 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/10/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/10/</guid>
+      <description>AWS Accelerating workloads using parallelism in AWS Step Functions
+AWS Step Functions Serverless
+ AWS Translate video captions and subtitles using Amazon Translate
+Amazon Machine Learning Amazon Translate
+ AWS AWS Machine Learning Competency Expands to Include Applied AI and MLOps Partners
+Amazon Machine Learning Announcements
+ AWS Nippon Television Network Corporation implements cloud playout using AWS
+AWS Elemental Mediaconnect Customer Solutions
+ AWS How Indexima Uses Hyper Indexes and Machine Learning to Enable Instant Analytics on Amazon S3</description>
+    </item>
+    
+    <item>
+      <title>09 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/09/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/09/</guid>
+      <description>AWS Cross-Region disaster recovery using Amazon Aurora Global Database for Amazon Aurora PostgreSQL
+Amazon Aurora
+ AWS CloudEndure Migration and CloudEndure Disaster Recovery now support EBS Local Snapshots on AWS Outposts
+ AWS Online Tech Talk March 17: Migrate your on-premises data lake to a modern data lake on Amazon S3
+Amazon Simple Storage Services (S3) Announcements
+ AWS Active learning workflow for Amazon Comprehend custom classification models – Part 1</description>
+    </item>
+    
+    <item>
+      <title>08 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/08/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/08/</guid>
+      <description>AWS Safely reduce the cost of your unused Amazon DynamoDB tables using on-demand mode
+Amazon Dynamodb
+ AWS Deep dive on the new Amazon EC2 G4ad instances
+Amazon EC2 Technical How-To
+ AWS Operating Lambda: Debugging code – Part 1
+AWS Lambda Best Practices
+ AWS Export and import Kibana dashboards with Amazon ES
+Amazon Elasticsearch Service Analytics
+ AWS Build a DataOps platform to break silos between engineers and analysts</description>
+    </item>
+    
+    <item>
+      <title>06 March, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/03/06/</link>
+      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/03/06/</guid>
+      <description> GCP What’s new with Google Cloud
+Google Workspace Inside Google Cloud  </description>
+    </item>
     
     <item>
       <title>05 March, 2021</title>
