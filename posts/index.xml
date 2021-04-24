@@ -6,10 +6,118 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://staging.cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>23 April, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/04/23/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/04/23/</guid>
+      <description>AWS Reduce Operational Load using AWS Managed Services for your Data Solutions
+Amazon RDS Amazon Redshift
+ AWS Amazon DocumentDB (with MongoDB compatibility) support for MongoDB server 3.6 end of life schedule
+Amazon Documentdb
+ AWS Build a medical sentence matching application using BERT and Amazon SageMaker
+Amazon Elastic Container Service Amazon Sagemaker
+ AWS Cognitive document processing for automated mortgage processing
+Amazon Augmented AI Amazon Comprehend
+ AWS Insurity Provides Next-Generation Predictive Analytics for Insurers on AWS</description>
+    </item>
+    
+    <item>
+      <title>22 April, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/04/22/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/04/22/</guid>
+      <description>AWS Using delegated admin for AWS Config operations and aggregation
+AWS Config AWS Management Console
+ AWS Quality Assessment for SageMaker Ground Truth Video Object Tracking Annotations using Statistical Analysis
+Amazon Sagemaker Ground Truth Artificial Intelligence
+ AWS Architecting Cross-channel Intelligent Customer Engagements
+Amazon Lex Amazon Machine Learning
+ AWS GOX competes in the local playing field with live-streamed games on Amazon IVS
+Amazon Interactive Video Service Direct-To-Consumer/OTT
+ AWS Introducing AWS Elemental MediaConnect inputs for AWS Elemental Live appliances</description>
+    </item>
+    
+    <item>
+      <title>21 April, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/04/21/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/04/21/</guid>
+      <description>AWS How VNR AG built a serverless customer data platform to power BI reporting with Amazon QuickSight
+Amazon Quicksight Analytics
+ AWS Getting Started with Anka on EC2 Mac Instances
+Amazon EC2 Amazon EC2 Bare Metal
+ AWS Whitepaper available: Classic intrusion analysis frameworks for AWS environments
+Security, Identity, &amp;amp; Compliance Enterprise
+ AWS Announcing availability of AWS Outposts in the Philippines and Brunei
+ AWS Now available credential profile support for AWS SSO and Assume Role with MFA in the AWS Toolkit for Visual Studio</description>
+    </item>
+    
+    <item>
+      <title>20 April, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/04/20/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/04/20/</guid>
+      <description>AWS Online Tech Talk April 28: Best practices for data protection on Amazon S3
+Amazon Simple Storage Services (S3) Announcements
+ AWS Amazon Rekognition launches tagging support for collections, stream processors, and Custom Labels
+ AWS Amazon EMR Release 5.33 now supports 10 new instance types
+ AWS Amazon Textract achieves FedRAMP compliance
+ AWS You now can use AWS CloudTrail to log Amazon DynamoDB Streams data-plane API activity</description>
+    </item>
+    
+    <item>
+      <title>19 April, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/04/19/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/04/19/</guid>
+      <description>AWS Getting started with serverless for developers: Part 2 – The business logic
+AWS Lambda AWS Serverless Application Model
+ AWS Migrate an application from using GridFS to using Amazon S3 and Amazon DocumentDB (with MongoDB compatibility)
+Amazon Documentdb Amazon Simple Storage Services (S3)
+ AWS New AWS Solutions Consulting Offer - IoT Resource Monitoring Framework
+ AWS AWS Control Tower now provides configurable naming during Landing Zone setup</description>
+    </item>
+    
+    <item>
+      <title>17 April, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/04/17/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/04/17/</guid>
+      <description> AWS Amazon Managed Service for Grafana (AMG) preview updated with new capabilities
+Amazon Managed Service For Grafana Announcements
+ GCP Google Cloud blog 101: Full list of topics, links, and resources
+Inside Google Cloud
+ GCP What’s new with Google Cloud
+Google Workspace Inside Google Cloud
+  </description>
+    </item>
+    
+    <item>
+      <title>16 April, 2021</title>
+      <link>http://staging.cloudchangelog.com/posts/2021/04/16/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://staging.cloudchangelog.com/posts/2021/04/16/</guid>
+      <description>AWS You can now use macros and transforms in CloudFormation templates to create AWS CloudFormation StackSets
+ AWS Containerizing Lambda deployments using OCI container images
+AWS Lambda Compute
+ AWS Field Notes: Building Automated Pipeline Corrosion Monitoring with AWS IoT Core
+Amazon Quicksight Architecture
+ AWS User Defined Functions (UDF) are now generally available for Amazon Athena
+ AWS AWS Backup extends centralized backup management support for Amazon FSx to five additional AWS Regions</description>
+    </item>
     
     <item>
       <title>15 April, 2021</title>
@@ -17,11 +125,13 @@
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://staging.cloudchangelog.com/posts/2021/04/15/</guid>
-      <description> AWS Proactive monitoring of application configuration deployment using AWS AppConfig and Amazon CloudWatch
+      <description>AWS Proactive monitoring of application configuration deployment using AWS AppConfig and Amazon CloudWatch
 Amazon Cloudwatch AWS Systems Manager
  AWS How to automate capture and analysis of CI/CD metrics using AWS DevOps Monitoring Dashboard solution
 Amazon Athena Amazon Cloudwatch
-  </description>
+ AWS Introducing cross-Region event routing with Amazon EventBridge
+Amazon Eventbridge Serverless
+ AWS Amazon Macie adds CloudWatch logging for job status and health monitoring of sensitive data discovery jobs</description>
     </item>
     
     <item>
@@ -46,11 +156,12 @@ AWS Elemental Live AWS Elemental Medialive
       <guid>http://staging.cloudchangelog.com/posts/2021/04/13/</guid>
       <description>AWS AWS Secrets Manager controller POC: an EKS operator for automatic rotation of secrets
 Amazon Elastic Kubernetes Service
- AWS Bill.com uses Amazon QuickSight to enable users with secure and governed enterprise BI
-Amazon Quicksight Analytics
- AWS AWS Batch increases job scheduling and EC2 instance scaling performance
- AWS Amazon RDS for PostgreSQL supports new minor versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25
- AWS AWS Identity and Access Management now makes it easier to relate a user&amp;rsquo;s IAM role activity to their corporate identity</description>
+ AWS Amazon Interactive Video Service adds new Cloudwatch Metrics
+ AWS AWS CloudFormation Modules now Provides YAML and Delimiter Support
+ AWS Protecting people from hazardous areas through virtual boundaries with Computer Vision
+Amazon Sagemaker Artificial Intelligence
+ AWS Updated classroom course: Systems Operations on AWS
+ AWS Embed Amazon QuickSight dashboards in Salesforce</description>
     </item>
     
     <item>
